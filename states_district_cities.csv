@@ -1,829 +1,804 @@
-States,District,Cities,Latitude,Longitude,Sample_Population,ISO,Date
-Kedah,Baling,Baling,5.6831,100.9106,2395,MY-02,2015-01-01 00:00:00
-Kedah,Baling,Baling,5.8149,100.8916,6412,MY-02,2015-01-02 00:00:00
-Kedah,Baling,Baling,5.7138,100.8009,7569,MY-02,2015-01-03 00:00:00
-Kedah,Baling,Baling,5.7073,100.9602,2004,MY-02,2015-01-04 00:00:00
-Kedah,Baling,Baling,5.6875,100.9262,7823,MY-02,2015-01-05 00:00:00
-Kedah,Baling,Baling,5.6914,100.8494,5401,MY-02,2015-01-06 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.2144,100.6151,5710,MY-02,2015-01-07 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.1964,100.5844,3547,MY-02,2015-01-08 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.2035,100.6273,5036,MY-02,2015-01-09 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.2455,100.6017,6572,MY-02,2015-01-10 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.2251,100.595,3340,MY-02,2015-01-11 00:00:00
-Kedah,"Bandar Baharu",Serdang,5.2648,100.6143,4828,MY-02,2015-01-12 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.6552,100.5292,7595,MY-02,2015-01-13 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.647,100.4862,3041,MY-02,2015-01-14 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.6432,100.5699,4013,MY-02,2015-01-15 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.6519,100.549,7397,MY-02,2015-01-16 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.6852,100.5695,6954,MY-02,2015-01-17 00:00:00
-Kedah,"Kuala Muda","Sungai Petani",5.6695,100.4926,5930,MY-02,2015-01-18 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.2413,100.4322,3607,MY-02,2015-01-19 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.2793,100.4203,6054,MY-02,2015-01-20 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.273,100.4583,5282,MY-02,2015-01-21 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.3288,100.478,1553,MY-02,2015-01-22 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.2683,100.4248,7607,MY-02,2015-01-23 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.2757,100.422,8364,MY-02,2015-01-24 00:00:00
-Kedah,"Kubang Pasu",Jitra,6.3288,100.478,8008,MY-02,2015-01-25 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.4576,100.503,4607,MY-02,2015-01-26 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.446,100.486,3015,MY-02,2015-01-27 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.44,100.531,6021,MY-02,2015-01-28 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.442,100.479,4686,MY-02,2015-01-29 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.425,100.498,5952,MY-02,2015-01-30 00:00:00
-Kedah,"Kubang Pasu",Sintok,6.467,100.538,2248,MY-02,2015-01-31 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.5,100.411,4091,MY-02,2015-02-01 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.516,100.4352,1970,MY-02,2015-02-02 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.5,100.228,8017,MY-02,2015-02-03 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.515,100.3938,6423,MY-02,2015-02-04 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.495,100.3983,5825,MY-02,2015-02-05 00:00:00
-Kedah,"Kubang Pasu","Bukit Kayu Hitam",6.513,100.445,1539,MY-02,2015-02-06 00:00:00
-Kedah,Kulim,Kulim,5.3411,100.5649,4418,MY-02,2015-02-07 00:00:00
-Kedah,Kulim,Kulim,5.4165,100.5797,3611,MY-02,2015-02-08 00:00:00
-Kedah,Kulim,Kulim,5.309,100.5663,4755,MY-02,2015-02-09 00:00:00
-Kedah,Kulim,Kulim,5.3926,100.5367,3150,MY-02,2015-02-10 00:00:00
-Kedah,Kulim,Kulim,5.3683,100.5576,7659,MY-02,2015-02-11 00:00:00
-Kedah,Kulim,Kulim,5.3846,100.5461,5424,MY-02,2015-02-12 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.124,100.3684,8501,MY-02,2015-02-13 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.1281,100.3433,1375,MY-02,2015-02-14 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.1609,100.3634,6368,MY-02,2015-02-15 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.1205,100.3684,7770,MY-02,2015-02-16 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.1512,100.3475,6267,MY-02,2015-02-17 00:00:00
-Kedah,"Kota Setar","Alor Setar",6.1085,100.3547,4817,MY-02,2015-02-18 00:00:00
-Kedah,Langkawi,Langkawi,6.346,99.7904,6388,MY-02,2015-02-19 00:00:00
-Kedah,Langkawi,Langkawi,6.3311,99.8313,8413,MY-02,2015-02-20 00:00:00
-Kedah,Langkawi,Langkawi,6.285,99.7472,2085,MY-02,2015-02-21 00:00:00
-Kedah,Langkawi,Langkawi,6.3918,99.7166,8808,MY-02,2015-02-22 00:00:00
-Kedah,Langkawi,Langkawi,6.3406,99.7838,7529,MY-02,2015-02-23 00:00:00
-Kedah,Langkawi,Langkawi,6.3613,99.7897,1831,MY-02,2015-02-24 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.2465,100.57771,8456,MY-02,2015-02-25 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.2692,100.6245,2514,MY-02,2015-02-26 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.1984,100.7522,7329,MY-02,2015-02-27 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.2803,100.5442,1106,MY-02,2015-02-28 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.201,100.718,8560,MY-02,2015-03-01 00:00:00
-Kedah,"Padang Terap","Kuala Nerang",6.2296,100.6219,4184,MY-02,2015-03-02 00:00:00
-Kedah,Pendang,Pendang,5.9717,100.5149,6203,MY-02,2015-03-03 00:00:00
-Kedah,Pendang,Pendang,6.0218,100.481,5570,MY-02,2015-03-04 00:00:00
-Kedah,Pendang,Pendang,5.9588,100.4771,2057,MY-02,2015-03-05 00:00:00
-Kedah,Pendang,Pendang,5.9962,100.6077,6497,MY-02,2015-03-06 00:00:00
-Kedah,Pendang,Pendang,6.0255,100.5213,6688,MY-02,2015-03-07 00:00:00
-Kedah,Pendang,Pendang,6.0326,100.5413,1564,MY-02,2015-03-08 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.103,100.6163,8790,MY-02,2015-03-09 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.2139,100.5109,4816,MY-02,2015-03-10 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.1091,100.7172,7598,MY-02,2015-03-11 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.0494,100.6156,2749,MY-02,2015-03-12 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.1585,100.5013,7651,MY-02,2015-03-13 00:00:00
-Kedah,"Pokok Sena","Pokok Sena",6.1176,100.6276,6042,MY-02,2015-03-14 00:00:00
-Kedah,Sik,Sik,5.9903,100.8149,6012,MY-02,2015-03-15 00:00:00
-Kedah,Sik,Sik,6.0098,100.7514,6047,MY-02,2015-03-16 00:00:00
-Kedah,Sik,Sik,5.9835,100.6944,1373,MY-02,2015-03-17 00:00:00
-Kedah,Sik,Sik,5.7513,100.726,5292,MY-02,2015-03-18 00:00:00
-Kedah,Sik,Sik,5.8261,100.7296,1672,MY-02,2015-03-19 00:00:00
-Kedah,Sik,Sik,6.0347,100.7271,6322,MY-02,2015-03-20 00:00:00
-Kedah,Yan,Yan,5.7855,100.3724,3491,MY-02,2015-03-21 00:00:00
-Kedah,Yan,Yan,5.8398,100.3849,7437,MY-02,2015-03-22 00:00:00
-Kedah,Yan,Yan,5.8398,100.4161,1002,MY-02,2015-03-23 00:00:00
-Kedah,Yan,Yan,5.8744,100.4222,3068,MY-02,2015-03-24 00:00:00
-Kedah,Yan,Yan,5.8544,100.4091,4418,MY-02,2015-03-25 00:00:00
-Kedah,Yan,Yan,5.821,100.3878,1712,MY-02,2015-03-26 00:00:00
-Perlis,Arau,Arau,6.433,100.2604,7416,MY-09,2015-03-27 00:00:00
-Perlis,Arau,Arau,6.4256,100.2893,5619,MY-09,2015-03-28 00:00:00
-Perlis,Arau,Arau,6.3906,100.2511,4482,MY-09,2015-03-29 00:00:00
-Perlis,Arau,Arau,6.4399,100.3308,5515,MY-09,2015-03-30 00:00:00
-Perlis,Arau,Arau,6.4345,100.3142,3828,MY-09,2015-03-31 00:00:00
-Perlis,Arau,Arau,6.4311,100.2531,1310,MY-09,2015-04-01 00:00:00
-Perlis,Kangar,Kangar,6.4396,100.1926,3506,MY-09,2015-04-02 00:00:00
-Perlis,Kangar,Kangar,6.4497,100.1981,5663,MY-09,2015-04-03 00:00:00
-Perlis,Kangar,Kangar,6.4465,100.203,1385,MY-09,2015-04-04 00:00:00
-Perlis,Kangar,Kangar,6.462,100.1685,2739,MY-09,2015-04-05 00:00:00
-Perlis,Kangar,Kangar,6.5106,100.2535,8276,MY-09,2015-04-06 00:00:00
-Perlis,Kangar,Kangar,6.4416,100.1922,7760,MY-09,2015-04-07 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6605,100.3115,3536,MY-09,2015-04-08 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6999,100.2097,8435,MY-09,2015-04-09 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6551,100.2802,4026,MY-09,2015-04-10 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6624,100.2852,2966,MY-09,2015-04-11 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6325,100.2721,6267,MY-09,2015-04-12 00:00:00
-Perlis,"Padang Besar","Padang Besar",6.6543,100.2545,1192,MY-09,2015-04-13 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.3968,100.1296,6439,MY-09,2015-04-14 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.4056,100.1464,7002,MY-09,2015-04-15 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.4151,100.1492,5532,MY-09,2015-04-16 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.3919,100.1603,6762,MY-09,2015-04-17 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.3865,100.1469,8453,MY-09,2015-04-18 00:00:00
-Perlis,"Kuala Perlis","Kuala Perlis",6.4072,100.1491,2192,MY-09,2015-04-19 00:00:00
-Perak,"Batang Padang",Tapah,4.1963,101.2591,6895,MY-08,2015-04-20 00:00:00
-Perak,"Batang Padang",Tapah,4.1898,101.2617,6842,MY-08,2015-04-21 00:00:00
-Perak,"Batang Padang",Tapah,4.2088,101.2566,4024,MY-08,2015-04-22 00:00:00
-Perak,"Batang Padang",Tapah,4.1887,101.2652,2666,MY-08,2015-04-23 00:00:00
-Perak,"Batang Padang",Tapah,4.2124,101.2381,4514,MY-08,2015-04-24 00:00:00
-Perak,"Batang Padang",Tapah,4.2141,101.2914,1652,MY-08,2015-04-25 00:00:00
-Perak,"Hilir Perak","Teluk Intan",4.0183,101.0063,6745,MY-08,2015-04-26 00:00:00
-Perak,"Hilir Perak","Teluk Intan",4.0486,101.0312,3815,MY-08,2015-04-27 00:00:00
-Perak,"Hilir Perak","Teluk Intan",3.9979,101.015,4636,MY-08,2015-04-28 00:00:00
-Perak,"Hilir Perak","Teluk Intan",4.003,101.0362,5999,MY-08,2015-04-29 00:00:00
-Perak,"Hilir Perak","Teluk Intan",4.0796,100.9675,4406,MY-08,2015-04-30 00:00:00
-Perak,"Hilir Perak","Teluk Intan",4.0536,101.047,8676,MY-08,2015-05-01 00:00:00
-Perak,"Hulu Perak",Gerik,5.4456,101.1119,2847,MY-08,2015-05-02 00:00:00
-Perak,"Hulu Perak",Gerik,5.4763,101.1772,4194,MY-08,2015-05-03 00:00:00
-Perak,"Hulu Perak",Lenggong,5.171,100.928,3995,MY-08,2015-05-04 00:00:00
-Perak,"Hulu Perak",Lenggong,5.1013,100.971,2400,MY-08,2015-05-05 00:00:00
-Perak,"Hulu Perak",Lenggong,5.1382,100.9667,8089,MY-08,2015-05-06 00:00:00
-Perak,"Hulu Perak",Lenggong,5,100.97,7833,MY-08,2015-05-07 00:00:00
-Perak,"Hulu Perak",Lenggong,5.282,101.03,2632,MY-08,2015-05-08 00:00:00
-Perak,"Hulu Perak",Lenggong,5.309,101.113,8818,MY-08,2015-05-09 00:00:00
-Perak,"Hulu Perak",Gerik,5.3902,101.1826,2947,MY-08,2015-05-10 00:00:00
-Perak,"Hulu Perak",Gerik,5.3601,101.1469,4878,MY-08,2015-05-11 00:00:00
-Perak,"Hulu Perak",Gerik,5.4928,101.149,8010,MY-08,2015-05-12 00:00:00
-Perak,"Hulu Perak",Gerik,5.3848,101.1092,1393,MY-08,2015-05-13 00:00:00
-Perak,Kampar,Kampar,4.2006,101.1533,3038,MY-08,2015-05-14 00:00:00
-Perak,Kampar,Kampar,4.3239,101.1437,8408,MY-08,2015-05-15 00:00:00
-Perak,Kampar,Kampar,4.2862,101.145,5517,MY-08,2015-05-16 00:00:00
-Perak,Kampar,Kampar,4.2417,101.1396,5695,MY-08,2015-05-17 00:00:00
-Perak,Kampar,Kampar,4.2707,101.1338,7026,MY-08,2015-05-18 00:00:00
-Perak,Kampar,Kampar,4.3144,101.142,4420,MY-08,2015-05-19 00:00:00
-Perak,Kerian,"Parit Buntar",5.1251,100.4892,3884,MY-08,2015-05-20 00:00:00
-Perak,Kerian,"Parit Buntar",5.1149,100.477,2576,MY-08,2015-05-21 00:00:00
-Perak,Kerian,"Parit Buntar",5.1057,100.489,3374,MY-08,2015-05-22 00:00:00
-Perak,Kerian,"Parit Buntar",5.1169,100.4626,7485,MY-08,2015-05-23 00:00:00
-Perak,Kerian,"Parit Buntar",5.1078,100.4891,4233,MY-08,2015-05-24 00:00:00
-Perak,Kerian,"Parit Buntar",5.1281,100.4831,7169,MY-08,2015-05-25 00:00:00
-Perak,Kinta,Ipoh,4.628,101.0969,3501,MY-08,2015-05-26 00:00:00
-Perak,Kinta,Ipoh,4.6654,101.095,1559,MY-08,2015-05-27 00:00:00
-Perak,Kinta,Ipoh,4.5977,101.1074,8007,MY-08,2015-05-28 00:00:00
-Perak,Kinta,Ipoh,4.6517,101.0727,3803,MY-08,2015-05-29 00:00:00
-Perak,Kinta,Ipoh,4.6227,101.0675,1271,MY-08,2015-05-30 00:00:00
-Perak,Kinta,Ipoh,4.5969,101.0753,1570,MY-08,2015-05-31 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7668,100.9476,8610,MY-08,2015-06-01 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7701,100.9311,8187,MY-08,2015-06-02 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7821,100.9343,1086,MY-08,2015-06-03 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7704,100.916,4878,MY-08,2015-06-04 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7501,100.9336,5057,MY-08,2015-06-05 00:00:00
-Perak,"Kuala Kangsar","Kuala Kangsar",4.7873,100.956,8074,MY-08,2015-06-06 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8495,5421,MY-08,2015-06-07 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8584,6784,MY-08,2015-06-08 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8533,5078,MY-08,2015-06-09 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8636,2651,MY-08,2015-06-10 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8849,4004,MY-08,2015-06-11 00:00:00
-Perak,Larut,"Matang & Selama",Taiping,4.8434,5286,MY-08,2015-06-12 00:00:00
-Perak,Manjung,"Seri Manjung",4.1809,100.6397,6651,MY-08,2015-06-13 00:00:00
-Perak,Manjung,"Seri Manjung",4.1962,100.6646,6893,MY-08,2015-06-14 00:00:00
-Perak,Manjung,"Seri Manjung",4.2144,100.6685,6793,MY-08,2015-06-15 00:00:00
-Perak,Manjung,"Seri Manjung",4.1845,100.6643,1647,MY-08,2015-06-16 00:00:00
-Perak,Manjung,"Seri Manjung",4.2197,100.6703,8616,MY-08,2015-06-17 00:00:00
-Perak,Manjung,"Seri Manjung",4.1924,100.6569,7102,MY-08,2015-06-18 00:00:00
-Perak,Muallim,"Tanjung Malim",3.7046,101.5054,3810,MY-08,2015-06-19 00:00:00
-Perak,Muallim,"Tanjung Malim",3.6936,101.5202,6816,MY-08,2015-06-20 00:00:00
-Perak,Muallim,"Tanjung Malim",3.6857,101.5265,8804,MY-08,2015-06-21 00:00:00
-Perak,Muallim,"Tanjung Malim",3.7025,101.5105,1916,MY-08,2015-06-22 00:00:00
-Perak,Muallim,"Tanjung Malim",3.8027,101.5012,4666,MY-08,2015-06-23 00:00:00
-Perak,Muallim,"Tanjung Malim",3.8348,101.4085,2311,MY-08,2015-06-24 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.3657,100.9592,5989,MY-08,2015-06-25 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.3533,100.961,2612,MY-08,2015-06-26 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.3637,100.9811,6176,MY-08,2015-06-27 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.3684,100.9589,7191,MY-08,2015-06-28 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.3646,100.9834,3024,MY-08,2015-06-29 00:00:00
-Perak,"Perak Tengah","Seri Iskandar",4.366,100.9546,5858,MY-08,2015-06-30 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3765,100.2203,2315,MY-07,2015-07-01 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3593,100.2107,2158,MY-07,2015-07-02 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3404,100.2368,1721,MY-07,2015-07-03 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3346,100.2282,1235,MY-07,2015-07-04 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3415,100.2141,6561,MY-07,2015-07-05 00:00:00
-Penang,"Barat Daya Pulau Pinang","Balik Pulau",5.3494,100.2327,8769,MY-07,2015-07-06 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.2625,100.5106,1253,MY-07,2015-07-07 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.1819,100.481,2594,MY-07,2015-07-08 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.1538,100.4831,7035,MY-07,2015-07-09 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.2673,100.4522,8453,MY-07,2015-07-10 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.2347,100.5085,6123,MY-07,2015-07-11 00:00:00
-Penang,"Seberang Perai Selatan","Sungai Jawi",5.2759,100.4831,1734,MY-07,2015-07-12 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.3486,100.4835,8303,MY-07,2015-07-13 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.3749,100.4667,2141,MY-07,2015-07-14 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.3739,100.4214,5042,MY-07,2015-07-15 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.341,100.5134,5278,MY-07,2015-07-16 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.3656,100.4466,5973,MY-07,2015-07-17 00:00:00
-Penang,"Seberang Perai Tengah","Bukit Mertajam",5.3594,100.4634,6365,MY-07,2015-07-18 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.517,100.4488,5131,MY-07,2015-07-19 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.5351,100.4649,1080,MY-07,2015-07-20 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.5023,100.4464,3133,MY-07,2015-07-21 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.4777,100.4389,3910,MY-07,2015-07-22 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.5261,100.465,1811,MY-07,2015-07-23 00:00:00
-Penang,"Seberang Perai Utara","Kepala Batas",5.5149,100.434,3155,MY-07,2015-07-24 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.4271,100.3056,4450,MY-07,2015-07-25 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.3977,100.3018,1704,MY-07,2015-07-26 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.4182,100.3276,2577,MY-07,2015-07-27 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.3844,100.3046,8161,MY-07,2015-07-28 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.4178,100.3204,5130,MY-07,2015-07-29 00:00:00
-Penang,"Timur Laut Pulau Pinang","George Town",5.4145,100.3129,2539,MY-07,2015-07-30 00:00:00
-Selangor,Gombak,Rawang,3.3004,101.6403,7898,MY-10,2015-07-31 00:00:00
-Selangor,Gombak,Rawang,3.2826,101.5263,1757,MY-10,2015-08-01 00:00:00
-Selangor,Gombak,Rawang,3.2394,101.5407,3599,MY-10,2015-08-02 00:00:00
-Selangor,Gombak,Rawang,3.2638,101.6843,4521,MY-10,2015-08-03 00:00:00
-Selangor,Gombak,Rawang,3.3192,101.5745,4463,MY-10,2015-08-04 00:00:00
-Selangor,"Hulu Langat","Hulu Langat",3.1997,101.8567,6249,MY-10,2015-08-05 00:00:00
-Selangor,"Hulu Langat","Hulu Langat",3.1593,101.8911,1274,MY-10,2015-08-06 00:00:00
-Selangor,"Hulu Langat","Hulu Langat",3.1284,101.8279,5096,MY-10,2015-08-07 00:00:00
-Selangor,"Hulu Langat","Hulu Langat",3.0904,101.7935,2701,MY-10,2015-08-08 00:00:00
-Selangor,"Hulu Langat","Hulu Langat",3.1355,101.8349,4255,MY-10,2015-08-09 00:00:00
-Selangor,"Hulu Selangor","Kuala Kubu Baru",3.5617,101.6572,5256,MY-10,2015-08-10 00:00:00
-Selangor,"Hulu Selangor","Kuala Kubu Baru",3.5621,101.6588,6697,MY-10,2015-08-11 00:00:00
-Selangor,"Hulu Selangor","Kuala Kubu Baru",3.5635,101.6607,6424,MY-10,2015-08-12 00:00:00
-Selangor,"Hulu Selangor","Kuala Kubu Baru",3.5628,101.656,4760,MY-10,2015-08-13 00:00:00
-Selangor,"Hulu Selangor","Kuala Kubu Baru",3.5736,101.6729,8633,MY-10,2015-08-14 00:00:00
-Selangor,Klang,Klang,3.0239,101.4591,2329,MY-10,2015-08-15 00:00:00
-Selangor,Klang,Klang,3.0426,101.4208,2350,MY-10,2015-08-16 00:00:00
-Selangor,Klang,Klang,3.0534,101.4678,8152,MY-10,2015-08-17 00:00:00
-Selangor,Klang,Klang,3.0693,101.4247,4589,MY-10,2015-08-18 00:00:00
-Selangor,Klang,Klang,3.0453,101.4449,6073,MY-10,2015-08-19 00:00:00
-Selangor,"Kuala Langat",Banting,2.8002,101.501,6145,MY-10,2015-08-20 00:00:00
-Selangor,"Kuala Langat",Banting,2.8866,101.5449,8467,MY-10,2015-08-21 00:00:00
-Selangor,"Kuala Langat",Banting,2.936,101.4941,8484,MY-10,2015-08-22 00:00:00
-Selangor,"Kuala Langat",Banting,2.877,101.3142,6608,MY-10,2015-08-23 00:00:00
-Selangor,"Kuala Langat",Banting,2.815,101.5061,7539,MY-10,2015-08-24 00:00:00
-Selangor,"Kuala Selangor","Kuala Selangor",3.3494,101.2847,6420,MY-10,2015-08-25 00:00:00
-Selangor,"Kuala Selangor","Kuala Selangor",3.3574,101.3154,4122,MY-10,2015-08-26 00:00:00
-Selangor,"Kuala Selangor","Kuala Selangor",3.3355,101.2976,4555,MY-10,2015-08-27 00:00:00
-Selangor,"Kuala Selangor","Kuala Selangor",3.3884,101.2557,2675,MY-10,2015-08-28 00:00:00
-Selangor,"Kuala Selangor","Kuala Selangor",3.3322,101.2501,2508,MY-10,2015-08-29 00:00:00
-Selangor,Petaling,"Shah Alam",3.1061,101.56,8782,MY-10,2015-08-30 00:00:00
-Selangor,Petaling,"Shah Alam",3.1349,101.5051,2636,MY-10,2015-08-31 00:00:00
-Selangor,Petaling,"Shah Alam",3.0046,101.5669,3119,MY-10,2015-09-01 00:00:00
-Selangor,Petaling,"Shah Alam",3.1198,101.6369,2719,MY-10,2015-09-02 00:00:00
-Selangor,Petaling,"Shah Alam",3.0584,101.4939,7867,MY-10,2015-09-03 00:00:00
-Selangor,Petaling,"Shah Alam",3.047,101.543,5478,MY-10,2015-09-04 00:00:00
-Selangor,Petaling,"Shah Alam",3.092206,101.4864,1529,MY-10,2015-09-05 00:00:00
-Selangor,Petaling,"Shah Alam",3.1064,101.515,5883,MY-10,2015-09-06 00:00:00
-Selangor,Petaling,"Shah Alam",3.0415,101.521,1281,MY-10,2015-09-07 00:00:00
-Selangor,Petaling,"Sg Buloh",3.1979,101.5406,3946,MY-10,2015-09-08 00:00:00
-Selangor,Petaling,"Sg Buloh",3.1973,101.579,1602,MY-10,2015-09-09 00:00:00
-Selangor,Petaling,"Sg Buloh",3.1733,101.5449,5333,MY-10,2015-09-10 00:00:00
-Selangor,Petaling,"Sg Buloh",3.231,101.552,7615,MY-10,2015-09-11 00:00:00
-Selangor,Petaling,"Sg Buloh",3.205,101.499,6747,MY-10,2015-09-12 00:00:00
-Selangor,Petaling,Damansara,3.1419,101.575,4399,MY-10,2015-09-13 00:00:00
-Selangor,Petaling,Damansara,3.1217,101.612,6677,MY-10,2015-09-14 00:00:00
-Selangor,Petaling,Damansara,3.1604,101.599,5248,MY-10,2015-09-15 00:00:00
-Selangor,Petaling,Damansara,3.1229,101.556,6172,MY-10,2015-09-16 00:00:00
-Selangor,Petaling,Damansara,3.158,101.6033,1172,MY-10,2015-09-17 00:00:00
-Selangor,Sepang,Sepang,2.8062,101.7149,1048,MY-10,2015-09-18 00:00:00
-Selangor,Sepang,Sepang,2.7664,101.7417,8912,MY-10,2015-09-19 00:00:00
-Selangor,Sepang,Sepang,2.7047,101.7334,6113,MY-10,2015-09-20 00:00:00
-Selangor,Sepang,Sepang,2.8295,101.7163,8552,MY-10,2015-09-21 00:00:00
-Selangor,Sepang,Sepang,2.6884,101.7502,5200,MY-10,2015-09-22 00:00:00
-Selangor,"Sabak Bernam","Sabak Bernam",3.5526,101.163,8749,MY-10,2015-09-23 00:00:00
-Selangor,"Sabak Bernam","Sabak Bernam",3.7801,101.0219,6664,MY-10,2015-09-24 00:00:00
-Selangor,"Sabak Bernam","Sabak Bernam",3.7112,101.0016,8418,MY-10,2015-09-25 00:00:00
-Selangor,"Sabak Bernam","Sabak Bernam",3.6468,101.299,8490,MY-10,2015-09-26 00:00:00
-Selangor,"Sabak Bernam","Sabak Bernam",3.7626,100.9878,8570,MY-10,2015-09-27 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.927,102.1048,4215,MY-05,2015-09-28 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.9702,102.1886,8018,MY-05,2015-09-29 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.8619,102.0959,2420,MY-05,2015-09-30 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.9538,102.0413,5115,MY-05,2015-10-01 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.9652,102.1087,5848,MY-05,2015-10-02 00:00:00
-N.Sembilan,Jelebu,"Kuala Klawang",2.9505,102.0854,3426,MY-05,2015-10-03 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.8037,102.4204,4927,MY-05,2015-10-04 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.7784,102.3903,8880,MY-05,2015-10-05 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.8482,102.375,3667,MY-05,2015-10-06 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.8215,102.4428,1988,MY-05,2015-10-07 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.8097,102.402,5672,MY-05,2015-10-08 00:00:00
-N.Sembilan,Jempol,"Bahau / Jempol",2.8075,102.4002,7180,MY-05,2015-10-09 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.6997,102.2345,7828,MY-05,2015-10-10 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.7302,102.298,8323,MY-05,2015-10-11 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.7662,102.2311,4766,MY-05,2015-10-12 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.8242,102.2675,6438,MY-05,2015-10-13 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.741,102.2438,3418,MY-05,2015-10-14 00:00:00
-N.Sembilan,"Kuala Pilah","Kuala Pilah",2.7454,102.2468,2235,MY-05,2015-10-15 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.5887,101.8439,5349,MY-05,2015-10-16 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.5315,101.8406,7489,MY-05,2015-10-17 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.6315,101.7863,7282,MY-05,2015-10-18 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.4683,101.866,4884,MY-05,2015-10-19 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.571,101.8306,1463,MY-05,2015-10-20 00:00:00
-N.Sembilan,"Port Dickson",Lukut,2.5602,101.8128,4309,MY-05,2015-10-21 00:00:00
-N.Sembilan,Rembau,Rembau,2.5854,102.1607,7123,MY-05,2015-10-22 00:00:00
-N.Sembilan,Rembau,Rembau,2.5504,102.0763,6914,MY-05,2015-10-23 00:00:00
-N.Sembilan,Rembau,Rembau,2.6018,102.1113,8566,MY-05,2015-10-24 00:00:00
-N.Sembilan,Rembau,Rembau,2.5127,102.0687,8271,MY-05,2015-10-25 00:00:00
-N.Sembilan,Rembau,Rembau,2.5905,102.0933,8924,MY-05,2015-10-26 00:00:00
-N.Sembilan,Rembau,Rembau,2.592,102.0989,6272,MY-05,2015-10-27 00:00:00
-N.Sembilan,Seremban,Seremban,2.6966,102.0411,6894,MY-05,2015-10-28 00:00:00
-N.Sembilan,Seremban,Seremban,2.6994,101.9127,5805,MY-05,2015-10-29 00:00:00
-N.Sembilan,Seremban,Seremban,2.6434,102.0161,8760,MY-05,2015-10-30 00:00:00
-N.Sembilan,Seremban,Seremban,2.7529,101.9773,4792,MY-05,2015-10-31 00:00:00
-N.Sembilan,Seremban,Seremban,2.7226,101.9415,5664,MY-05,2015-11-01 00:00:00
-N.Sembilan,Seremban,Seremban,2.7201,101.9409,5139,MY-05,2015-11-02 00:00:00
-Melaka,Tampin,Tampin,2.472,102.2541,8857,MY-04,2015-11-03 00:00:00
-Melaka,Tampin,Tampin,2.4974,102.2743,2369,MY-04,2015-11-04 00:00:00
-Melaka,Tampin,Tampin,2.5073,102.2273,1794,MY-04,2015-11-05 00:00:00
-Melaka,Tampin,Tampin,2.5257,102.2376,3368,MY-04,2015-11-06 00:00:00
-Melaka,Tampin,Tampin,2.4682,102.2305,3003,MY-04,2015-11-07 00:00:00
-Melaka,Tampin,Tampin,2.4693,102.221,4580,MY-04,2015-11-08 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.4007,102.2874,4914,MY-04,2015-11-09 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.4473,102.2201,2992,MY-04,2015-11-10 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.3876,102.2915,4442,MY-04,2015-11-11 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.4624,102.2023,3778,MY-04,2015-11-12 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.3819,102.2102,8911,MY-04,2015-11-13 00:00:00
-Melaka,"Alor Gajah","Alor Gajah",2.3782,102.2088,2668,MY-04,2015-11-14 00:00:00
-Melaka,Jasin,Jasin,2.2546,102.4441,3627,MY-04,2015-11-15 00:00:00
-Melaka,Jasin,Jasin,2.3191,102.3501,8135,MY-04,2015-11-16 00:00:00
-Melaka,Jasin,Jasin,2.315,102.4517,2616,MY-04,2015-11-17 00:00:00
-Melaka,Jasin,Jasin,2.3253,102.3707,3489,MY-04,2015-11-18 00:00:00
-Melaka,Jasin,Jasin,2.3055,102.4225,3183,MY-04,2015-11-19 00:00:00
-Melaka,Jasin,Jasin,2.3057,102.4229,8355,MY-04,2015-11-20 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.2543,102.211,2789,MY-04,2015-11-21 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.2632,102.2879,4523,MY-04,2015-11-22 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.1946,102.3154,2331,MY-04,2015-11-23 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.2817,102.1684,8422,MY-04,2015-11-24 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.2718,102.286,6753,MY-04,2015-11-25 00:00:00
-Melaka,"Melaka Tengah","Melaka Tengah",2.2573,102.2788,4954,MY-04,2015-11-26 00:00:00
-Pahang,Bentong,Bentong,3.5665,101.972,1768,MY-06,2015-11-27 00:00:00
-Pahang,Bentong,Bentong,3.3636,101.983,8553,MY-06,2015-11-28 00:00:00
-Pahang,Bentong,Bentong,3.2101,102.1643,7206,MY-06,2015-11-29 00:00:00
-Pahang,Bentong,Bentong,3.2841,102.222,8807,MY-06,2015-11-30 00:00:00
-Pahang,Bentong,Bentong,3.5253,101.9043,6901,MY-06,2015-12-01 00:00:00
-Pahang,Bentong,Bentong,3.5269,101.9068,1669,MY-06,2015-12-02 00:00:00
-Pahang,Bera,"Bandar Bera",3.1845,102.4674,7189,MY-06,2015-12-03 00:00:00
-Pahang,Bera,"Bandar Bera",3.0255,102.6762,2968,MY-06,2015-12-04 00:00:00
-Pahang,Bera,"Bandar Bera",3.2229,102.3686,5037,MY-06,2015-12-05 00:00:00
-Pahang,Bera,"Bandar Bera",3.3655,102.5691,5114,MY-06,2015-12-06 00:00:00
-Pahang,Bera,"Bandar Bera",3.2715,102.4524,8476,MY-06,2015-12-07 00:00:00
-Pahang,Bera,"Bandar Bera",3.2453,102.413,6583,MY-06,2015-12-08 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.4943,101.4454,4222,MY-06,2015-12-09 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.4163,101.4736,5792,MY-06,2015-12-10 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.482,101.5574,3281,MY-06,2015-12-11 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.5207,101.3981,4438,MY-06,2015-12-12 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.4676,101.3892,2188,MY-06,2015-12-13 00:00:00
-Pahang,"Cameron Highlands","Tanah Rata",4.4888,101.3765,4452,MY-06,2015-12-14 00:00:00
-Pahang,Jerantut,Jerantut,3.9943,102.4137,6480,MY-06,2015-12-15 00:00:00
-Pahang,Jerantut,Jerantut,4.0135,102.2146,6016,MY-06,2015-12-16 00:00:00
-Pahang,Jerantut,Jerantut,3.8559,102.3629,1348,MY-06,2015-12-17 00:00:00
-Pahang,Jerantut,"Kuala Tahan",4.317,102.44,2077,MY-06,2015-12-18 00:00:00
-Pahang,Jerantut,"Kuala Tahan",4.3132,102.376,2495,MY-06,2015-12-19 00:00:00
-Pahang,Jerantut,"Kuala Tahan",4.356,102.4183,3452,MY-06,2015-12-20 00:00:00
-Pahang,Jerantut,"Kuala Tahan",4.3432,102.378,3983,MY-06,2015-12-21 00:00:00
-Pahang,Jerantut,"Kuala Tahan",4.4032,102.379,5150,MY-06,2015-12-22 00:00:00
-Pahang,Jerantut,Jerantut,3.9806,102.5263,1793,MY-06,2015-12-23 00:00:00
-Pahang,Jerantut,Jerantut,3.9382,102.3605,1022,MY-06,2015-12-24 00:00:00
-Pahang,Jerantut,Jerantut,3.9315,102.3622,3634,MY-06,2015-12-25 00:00:00
-Pahang,Kuantan,Kuantan,3.8688,103.168,2056,MY-06,2015-12-26 00:00:00
-Pahang,Kuantan,Kuantan,3.803,103.2339,8221,MY-06,2015-12-27 00:00:00
-Pahang,Kuantan,Kuantan,3.729,103.2477,2794,MY-06,2015-12-28 00:00:00
-Pahang,Kuantan,Kuantan,3.8318,103.3122,6395,MY-06,2015-12-29 00:00:00
-Pahang,Kuantan,Kuantan,3.793,103.1659,5596,MY-06,2015-12-30 00:00:00
-Pahang,Kuantan,Kuantan,3.7831,103.2358,8044,MY-06,2015-12-31 00:00:00
-Pahang,Lipis,Lipis,4.2476,102.0838,1833,MY-06,2015-01-01 00:00:00
-Pahang,Lipis,Lipis,4.0969,102.1964,2959,MY-06,2015-01-02 00:00:00
-Pahang,Lipis,Lipis,4.2421,101.7062,7046,MY-06,2015-01-03 00:00:00
-Pahang,Lipis,Lipis,4.4365,101.9135,2519,MY-06,2015-01-04 00:00:00
-Pahang,Lipis,Lipis,4.182,102.0532,3062,MY-06,2015-01-05 00:00:00
-Pahang,Lipis,Lipis,4.1735,102.0437,3255,MY-06,2015-01-06 00:00:00
-Pahang,Maran,Maran,3.5411,102.7734,4336,MY-06,2015-01-07 00:00:00
-Pahang,Maran,Maran,3.6595,102.8808,2282,MY-06,2015-01-08 00:00:00
-Pahang,Maran,Maran,3.5217,102.6906,1269,MY-06,2015-01-09 00:00:00
-Pahang,Maran,Maran,3.5149,102.8307,2694,MY-06,2015-01-10 00:00:00
-Pahang,Maran,Maran,3.5838,102.7836,3675,MY-06,2015-01-11 00:00:00
-Pahang,Maran,Maran,3.582,102.7724,3020,MY-06,2015-01-12 00:00:00
-Pahang,Pekan,Pekan,3.1067,103.4038,7010,MY-06,2015-01-13 00:00:00
-Pahang,Pekan,Pekan,3.2184,103.4196,7140,MY-06,2015-01-14 00:00:00
-Pahang,Pekan,Pekan,3.4878,103.3633,5927,MY-06,2015-01-15 00:00:00
-Pahang,Pekan,Pekan,3.5879,103.3496,1484,MY-06,2015-01-16 00:00:00
-Pahang,Pekan,Pekan,3.4892,103.3898,5857,MY-06,2015-01-17 00:00:00
-Pahang,Pekan,Pekan,3.5022,103.3817,5623,MY-06,2015-01-18 00:00:00
-Pahang,Raub,Raub,3.9023,101.8093,4850,MY-06,2015-01-19 00:00:00
-Pahang,Raub,Raub,3.8571,101.9041,1878,MY-06,2015-01-20 00:00:00
-Pahang,Raub,Raub,3.7269,101.8313,3627,MY-06,2015-01-21 00:00:00
-Pahang,Raub,Raub,4.0502,101.775,6732,MY-06,2015-01-22 00:00:00
-Pahang,Raub,Raub,3.7956,101.8555,1343,MY-06,2015-01-23 00:00:00
-Pahang,Raub,Raub,3.808,101.8472,6564,MY-06,2015-01-24 00:00:00
-Pahang,Rompin,Rompin,2.7158,103.5037,5153,MY-06,2015-01-25 00:00:00
-Pahang,Rompin,Rompin,2.7497,103.055,3201,MY-06,2015-01-26 00:00:00
-Pahang,Rompin,Rompin,3.1474,102.849,1020,MY-06,2015-01-27 00:00:00
-Pahang,Rompin,Rompin,2.618,103.6015,5732,MY-06,2015-01-28 00:00:00
-Pahang,Rompin,Rompin,2.7085,102.5053,4925,MY-06,2015-01-29 00:00:00
-Pahang,Rompin,"Tun Razak",2.968676,103.005104,7987,MY-06,2015-01-30 00:00:00
-Pahang,Rompin,"Tun Razak",2.892305,103.008745,3958,MY-06,2015-01-31 00:00:00
-Pahang,Rompin,Rompin,2.869033,103.2351,8099,MY-06,2015-02-01 00:00:00
-Pahang,Rompin,Rompin,2.884386,103.267,5260,MY-06,2015-02-02 00:00:00
-Pahang,Rompin,Rompin,2.8807,103.219,2967,MY-06,2015-02-03 00:00:00
-Pahang,Rompin,Rompin,2.91805,103.226541,4199,MY-06,2015-02-04 00:00:00
-Pahang,Rompin,"Tun Razak",3.0028,102.928633,7845,MY-06,2015-02-05 00:00:00
-Pahang,Rompin,"Tun Razak",3.0104,103.0136,2404,MY-06,2015-02-06 00:00:00
-Pahang,Rompin,Rompin,2.6946,102.5257,5230,MY-06,2015-02-07 00:00:00
-Pahang,Temerloh,Temerloh,3.4409,102.4912,8891,MY-06,2015-02-08 00:00:00
-Pahang,Temerloh,Temerloh,3.3829,102.4452,4772,MY-06,2015-02-09 00:00:00
-Pahang,Temerloh,Temerloh,3.4487,102.3947,4948,MY-06,2015-02-10 00:00:00
-Pahang,Temerloh,Temerloh,3.5413,102.4407,2014,MY-06,2015-02-11 00:00:00
-Pahang,Temerloh,Temerloh,3.4475,102.4189,5969,MY-06,2015-02-12 00:00:00
-Pahang,Temerloh,Temerloh,3.4508,102.4188,6504,MY-06,2015-02-13 00:00:00
-Pahang,Temerloh,Temerloh,3.4475,102.4189,7776,MY-06,2015-02-14 00:00:00
-Terengganu,Besut,Jerteh,5.6143,102.5593,4988,MY-11,2015-02-15 00:00:00
-Terengganu,Besut,Jerteh,5.6935,102.5263,5699,MY-11,2015-02-16 00:00:00
-Terengganu,Besut,Jerteh,5.7455,102.5593,1448,MY-11,2015-02-17 00:00:00
-Terengganu,Besut,Jerteh,5.5897,102.5785,8714,MY-11,2015-02-18 00:00:00
-Terengganu,Dungun,Dungun,4.7962,103.368,1100,MY-11,2015-02-19 00:00:00
-Terengganu,Dungun,Dungun,4.73333,103.403,6962,MY-11,2015-02-20 00:00:00
-Terengganu,Dungun,Dungun,4.7189,103.3481,7590,MY-11,2015-02-21 00:00:00
-Terengganu,Dungun,Dungun,4.8024,103.2513,5000,MY-11,2015-02-22 00:00:00
-Terengganu,"Hulu Terengganu","Kuala Berang",5.1014,102.8963,1269,MY-11,2015-02-23 00:00:00
-Terengganu,"Hulu Terengganu","Kuala Berang",5.152,102.9704,6140,MY-11,2015-02-24 00:00:00
-Terengganu,"Hulu Terengganu","Kuala Berang",5.1766,102.829,2520,MY-11,2015-02-25 00:00:00
-Terengganu,"Hulu Terengganu","Kuala Berang",5.2655,102.8949,1127,MY-11,2015-02-26 00:00:00
-Terengganu,Kemaman,Chukai,4.2366,103.3029,2471,MY-11,2015-02-27 00:00:00
-Terengganu,Kemaman,Chukai,4.3749,103.329,8391,MY-11,2015-02-28 00:00:00
-Terengganu,Kemaman,Chukai,4.2846,103.3475,6013,MY-11,2015-03-01 00:00:00
-Terengganu,Kemaman,Chukai,4.1729,103.2603,3182,MY-11,2015-03-02 00:00:00
-Terengganu,"Kuala Nerus","Gong Badak",5.3656,103.0888,4170,MY-11,2015-03-03 00:00:00
-Terengganu,"Kuala Nerus","Gong Badak",5.3707,103.0531,2846,MY-11,2015-03-04 00:00:00
-Terengganu,"Kuala Nerus","Gong Badak",5.3748,103.1084,2879,MY-11,2015-03-05 00:00:00
-Terengganu,"Kuala Nerus","Gong Badak",5.3765,103.038,7868,MY-11,2015-03-06 00:00:00
-Terengganu,"Kuala Terengganu","Kuala Terengganu",5.237,102.9944,4841,MY-11,2015-03-07 00:00:00
-Terengganu,"Kuala Terengganu","Kuala Terengganu",5.4065,103.0342,6051,MY-11,2015-03-08 00:00:00
-Terengganu,"Kuala Terengganu","Kuala Terengganu",5.2849,103.1386,4749,MY-11,2015-03-09 00:00:00
-Terengganu,"Kuala Terengganu","Kuala Terengganu",5.1878,103.0466,3076,MY-11,2015-03-10 00:00:00
-Terengganu,Marang,Marang,5.1419,103.1551,6426,MY-11,2015-03-11 00:00:00
-Terengganu,Marang,Marang,5.0941,103.2238,6705,MY-11,2015-03-12 00:00:00
-Terengganu,Marang,Marang,4.9545,103.2568,4435,MY-11,2015-03-13 00:00:00
-Terengganu,Marang,Marang,4.949,103.335,7553,MY-11,2015-03-14 00:00:00
-Terengganu,Setiu,"Bandar Permaisuri",5.5172,102.7597,8261,MY-11,2015-03-15 00:00:00
-Terengganu,Setiu,"Bandar Permaisuri",5.4687,102.8494,3388,MY-11,2015-03-16 00:00:00
-Terengganu,Setiu,"Bandar Permaisuri",5.4445,102.835,4266,MY-11,2015-03-17 00:00:00
-Terengganu,Setiu,"Bandar Permaisuri",5.5305,102.7558,2815,MY-11,2015-03-18 00:00:00
-Kelantan,Bachok,Bachok,6.0291,102.399,7054,MY-03,2015-03-19 00:00:00
-Kelantan,Bachok,Bachok,5.9643,102.432,4274,MY-03,2015-03-20 00:00:00
-Kelantan,Bachok,Bachok,5.9253,102.4292,3292,MY-03,2015-03-21 00:00:00
-Kelantan,Bachok,Bachok,5.9745,102.3956,8224,MY-03,2015-03-22 00:00:00
-Kelantan,"Gua Musang","Gua Musang",4.8685,101.9528,4152,MY-03,2015-03-23 00:00:00
-Kelantan,"Gua Musang","Gua Musang",4.939,101.9624,7397,MY-03,2015-03-24 00:00:00
-Kelantan,"Gua Musang","Gua Musang",4.8049,102.0139,4814,MY-03,2015-03-25 00:00:00
-Kelantan,"Gua Musang","Gua Musang",4.8364,101.8697,4154,MY-03,2015-03-26 00:00:00
-Kelantan,Jeli,Jeli,5.7054,101.8576,2171,MY-03,2015-03-27 00:00:00
-Kelantan,Jeli,Jeli,5.6217,101.8482,6790,MY-03,2015-03-28 00:00:00
-Kelantan,Jeli,Jeli,5.5684,101.8977,3145,MY-03,2015-03-29 00:00:00
-Kelantan,Jeli,Jeli,5.716,101.8345,6935,MY-03,2015-03-30 00:00:00
-Kelantan,"Kota Bharu","Kota Bharu",6.1383,102.3051,1864,MY-03,2015-03-31 00:00:00
-Kelantan,"Kota Bharu","Kota Bharu",6.0591,102.3305,8161,MY-03,2015-04-01 00:00:00
-Kelantan,"Kota Bharu","Kota Bharu",6.0984,102.3834,7969,MY-03,2015-04-02 00:00:00
-Kelantan,"Kota Bharu","Kota Bharu",6.099,102.2529,3000,MY-03,2015-04-03 00:00:00
-Kelantan,"Kuala Krai","Kuala Krai",5.4841,102.2662,6104,MY-03,2015-04-04 00:00:00
-Kelantan,"Kuala Krai","Kuala Krai",5.4253,102.3198,6764,MY-03,2015-04-05 00:00:00
-Kelantan,"Kuala Krai","Kuala Krai",5.6262,102.1598,3129,MY-03,2015-04-06 00:00:00
-Kelantan,"Kuala Krai","Kuala Krai",5.594,102.2736,5609,MY-03,2015-04-07 00:00:00
-Kelantan,Lojing,Lojing,4.7919,101.9418,7148,MY-03,2015-04-08 00:00:00
-Kelantan,Lojing,Lojing,4.5966,101.4329,7855,MY-03,2015-04-09 00:00:00
-Kelantan,Lojing,Lojing,4.5978,101.4319,5095,MY-03,2015-04-10 00:00:00
-Kelantan,Lojing,Lojing,4.5987,101.4314,3056,MY-03,2015-04-11 00:00:00
-Kelantan,Machang,Machang,5.7593,102.25,7724,MY-03,2015-04-12 00:00:00
-Kelantan,Machang,Machang,5.8129,102.2596,7182,MY-03,2015-04-13 00:00:00
-Kelantan,Machang,Machang,5.7644,102.182,3747,MY-03,2015-04-14 00:00:00
-Kelantan,Machang,Machang,5.7436,102.2418,7548,MY-03,2015-04-15 00:00:00
-Kelantan,"Pasir Mas","Pasir Mas",6.0174,102.1169,5488,MY-03,2015-04-16 00:00:00
-Kelantan,"Pasir Mas","Pasir Mas",5.9573,102.1924,1586,MY-03,2015-04-17 00:00:00
-Kelantan,"Pasir Mas","Pasir Mas",5.93,102.0853,1831,MY-03,2015-04-18 00:00:00
-Kelantan,"Pasir Mas","Pasir Mas",6.0953,102.1017,6853,MY-03,2015-04-19 00:00:00
-Kelantan,"Pasir Puteh","Pasir Puteh",5.8006,102.4117,4814,MY-03,2015-04-20 00:00:00
-Kelantan,"Pasir Puteh","Pasir Puteh",5.8881,102.3897,4147,MY-03,2015-04-21 00:00:00
-Kelantan,"Pasir Puteh","Pasir Puteh",5.8963,102.4556,3920,MY-03,2015-04-22 00:00:00
-Kelantan,"Pasir Puteh","Pasir Puteh",5.7806,102.3521,7715,MY-03,2015-04-23 00:00:00
-Kelantan,"Tanah Merah","Tanah Merah",5.8106,102.089,6840,MY-03,2015-04-24 00:00:00
-Kelantan,"Tanah Merah","Tanah Merah",5.8946,102.0993,4105,MY-03,2015-04-25 00:00:00
-Kelantan,"Tanah Merah","Tanah Merah",5.7627,102.1096,7093,MY-03,2015-04-26 00:00:00
-Kelantan,"Tanah Merah","Tanah Merah",5.844,101.9557,2567,MY-03,2015-04-27 00:00:00
-Kelantan,Tumpat,Tumpat,6.2273,102.0956,7234,MY-03,2015-04-28 00:00:00
-Kelantan,Tumpat,Tumpat,6.1453,102.1526,6478,MY-03,2015-04-29 00:00:00
-Kelantan,Tumpat,Tumpat,6.1781,102.2227,1045,MY-03,2015-04-30 00:00:00
-Kelantan,Tumpat,Tumpat,6.2081,102.1114,7125,MY-03,2015-05-01 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.9544,102.855,2508,MY-01,2015-05-02 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.8391,103.1269,1663,MY-01,2015-05-03 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.8659,103.1578,3019,MY-01,2015-05-04 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.919,102.92,8376,MY-01,2015-05-05 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.862,103.092,8701,MY-01,2015-05-06 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.741,103.044,8553,MY-01,2015-05-07 00:00:00
-Johor,"Batu Pahat","Batu Pahat",1.853,102.936,7779,MY-01,2015-05-08 00:00:00
-Johor,"Johor Bahru","Johor Bahru",1.4975,103.6163,3744,MY-01,2015-05-09 00:00:00
-Johor,"Johor Bahru","Johor Bahru",1.5187,103.7571,3905,MY-01,2015-05-10 00:00:00
-Johor,"Johor Bahru","Johor Bahru",1.5675,103.77166,3042,MY-01,2015-05-11 00:00:00
-Johor,"Johor Bahru","Johor Bahru",1.4645,103.7447,1165,MY-01,2015-05-12 00:00:00
-Johor,Kluang,Kluang,1.9862,103.3282,7094,MY-01,2015-05-13 00:00:00
-Johor,Kluang,Kluang,2.0696,103.344,3772,MY-01,2015-05-14 00:00:00
-Johor,Kluang,Kluang,2.0248,103.3218,6520,MY-01,2015-05-15 00:00:00
-Johor,Kluang,Kluang,2.043,103.3203,6056,MY-01,2015-05-16 00:00:00
-Johor,Kluang,Kluang,1.9943,103.264,7070,MY-01,2015-05-17 00:00:00
-Johor,Kluang,Kluang,1.99,103.362,4344,MY-01,2015-05-18 00:00:00
-Johor,Kluang,Kluang,2.104,103.454,4897,MY-01,2015-05-19 00:00:00
-Johor,"Kota Tinggi","Kota Tinggi",1.7148,103.8964,2391,MY-01,2015-05-20 00:00:00
-Johor,"Kota Tinggi","Kota Tinggi",1.7891,103.9102,7383,MY-01,2015-05-21 00:00:00
-Johor,"Kota Tinggi","Kota Tinggi",1.7568,103.8806,4967,MY-01,2015-05-22 00:00:00
-Johor,"Kota Tinggi","Kota Tinggi",1.7405,103.9107,3970,MY-01,2015-05-23 00:00:00
-Johor,Kulai,Kulai,1.6484,103.6006,5635,MY-01,2015-05-24 00:00:00
-Johor,Kulai,Kulai,1.6809,103.5848,2292,MY-01,2015-05-25 00:00:00
-Johor,Kulai,Kulai,1.6331,103.6003,8740,MY-01,2015-05-26 00:00:00
-Johor,Kulai,Kulai,1.6632,103.6013,4523,MY-01,2015-05-27 00:00:00
-Johor,Tangkak,Tangkak,2.2693,102.5338,1065,MY-01,2015-05-28 00:00:00
-Johor,Tangkak,Tangkak,2.2698,102.5325,8601,MY-01,2015-05-29 00:00:00
-Johor,Tangkak,Tangkak,2.2715,102.5518,7159,MY-01,2015-05-30 00:00:00
-Johor,Tangkak,Tangkak,2.2875,102.5507,4389,MY-01,2015-05-31 00:00:00
-Johor,Mersing,Mersing,2.4299,103.8459,7097,MY-01,2015-06-01 00:00:00
-Johor,Mersing,Mersing,2.4165,103.8315,6639,MY-01,2015-06-02 00:00:00
-Johor,Mersing,Mersing,2.3945,103.8626,3572,MY-01,2015-06-03 00:00:00
-Johor,Mersing,Mersing,2.4775,103.8173,7127,MY-01,2015-06-04 00:00:00
-Johor,Muar,Muar,2.0708,102.578,8177,MY-01,2015-06-05 00:00:00
-Johor,Muar,Muar,2.087,102.5867,5227,MY-01,2015-06-06 00:00:00
-Johor,Muar,Muar,2.052,102.6144,4790,MY-01,2015-06-07 00:00:00
-Johor,Muar,Muar,2.0389,102.5707,1550,MY-01,2015-06-08 00:00:00
-Johor,Muar,Pagoh,2.1275,102.713236,4039,MY-01,2015-06-09 00:00:00
-Johor,Muar,Pagoh,2.10214,102.716,3286,MY-01,2015-06-10 00:00:00
-Johor,Muar,Pagoh,2.113,102.78,1484,MY-01,2015-06-11 00:00:00
-Johor,Muar,Pagoh,2.1378,102.772,8123,MY-01,2015-06-12 00:00:00
-Johor,Muar,Pagoh,2.17,102.767,1736,MY-01,2015-06-13 00:00:00
-Johor,Pontian,Pontian,1.4666,103.4566,5271,MY-01,2015-06-14 00:00:00
-Johor,Pontian,Pontian,1.489,103.4822,1017,MY-01,2015-06-15 00:00:00
-Johor,Pontian,Pontian,1.4873,103.5587,2055,MY-01,2015-06-16 00:00:00
-Johor,Pontian,Pontian,1.5237,103.4241,3994,MY-01,2015-06-17 00:00:00
-Johor,Segamat,Segamat,2.3814,102.9532,7249,MY-01,2015-06-18 00:00:00
-Johor,Segamat,Segamat,2.6305,102.7172,1960,MY-01,2015-06-19 00:00:00
-Johor,Segamat,Segamat,2.5314,102.7103,2677,MY-01,2015-06-20 00:00:00
-Johor,Segamat,Segamat,2.6021,102.8366,3026,MY-01,2015-06-21 00:00:00
-WP,"Kuala Lumpur","Kuala Lumpur",3.1464,101.6996,5060,MY-14,2015-06-22 00:00:00
-WP,"Kuala Lumpur","Kuala Lumpur",3.156,101.7176,2435,MY-14,2015-06-23 00:00:00
-WP,"Kuala Lumpur","Kuala Lumpur",3.183,101.6755,2855,MY-14,2015-06-24 00:00:00
-WP,"Kuala Lumpur","Kuala Lumpur",3.117,101.6682,7387,MY-14,2015-06-25 00:00:00
-WP,Putrajaya,Putrajaya,2.9229,101.7022,4658,MY-16,2015-06-26 00:00:00
-WP,Putrajaya,Putrajaya,2.9335,101.6729,3212,MY-16,2015-06-27 00:00:00
-WP,Putrajaya,Putrajaya,2.9673,101.6965,6594,MY-16,2015-06-28 00:00:00
-WP,Putrajaya,Putrajaya,2.9083,101.6787,6348,MY-16,2015-06-29 00:00:00
-WP,Labuan,Labuan,5.2829,115.2465,4336,MY-15,2015-06-30 00:00:00
-WP,Labuan,Labuan,5.2891,115.1969,8339,MY-15,2015-07-01 00:00:00
-WP,Labuan,Labuan,5.3318,115.2339,3009,MY-15,2015-07-02 00:00:00
-WP,Labuan,Labuan,5.2937,115.2441,8979,MY-15,2015-07-03 00:00:00
-Sabah,Beaufort,Beaufort,5.2785,115.7155,4249,MY-12,2015-07-04 00:00:00
-Sabah,Beaufort,Beaufort,5.3988,115.8851,6228,MY-12,2015-07-05 00:00:00
-Sabah,Beaufort,Beaufort,5.1752,115.6558,7330,MY-12,2015-07-06 00:00:00
-Sabah,Beaufort,Beaufort,5.2901,115.7389,1000,MY-12,2015-07-07 00:00:00
-Sabah,Beluran,Beluran,5.724,117.0953,5301,MY-12,2015-07-08 00:00:00
-Sabah,Beluran,Beluran,5.7008,117.2422,3857,MY-12,2015-07-09 00:00:00
-Sabah,Beluran,Beluran,5.8887,117.4215,6028,MY-12,2015-07-10 00:00:00
-Sabah,Beluran,Beluran,5.7951,117.5306,8310,MY-12,2015-07-11 00:00:00
-Sabah,Keningau,Keningau,5.375,116.1947,8596,MY-12,2015-07-12 00:00:00
-Sabah,Keningau,Keningau,5.1316,116.1109,1977,MY-12,2015-07-13 00:00:00
-Sabah,Keningau,Keningau,5.2027,116.3828,2496,MY-12,2015-07-14 00:00:00
-Sabah,Keningau,Keningau,5.0837,116.2592,1544,MY-12,2015-07-15 00:00:00
-Sabah,Kinabatangan,Kinabatangan,5.3412,116.9476,6995,MY-12,2015-07-16 00:00:00
-Sabah,Kinabatangan,Kinabatangan,5.5654,117.354,5009,MY-12,2015-07-17 00:00:00
-Sabah,Kinabatangan,Kinabatangan,5.4451,117.8265,7540,MY-12,2015-07-18 00:00:00
-Sabah,Kinabatangan,Kinabatangan,5.4069,118.4307,5647,MY-12,2015-07-19 00:00:00
-Sabah,"Kota Belut","Kota Belut",6.3491,116.4742,1017,MY-12,2015-07-20 00:00:00
-Sabah,"Kota Belut","Kota Belut",6.4494,116.4619,1816,MY-12,2015-07-21 00:00:00
-Sabah,"Kota Belut","Kota Belut",6.3511,116.556,4984,MY-12,2015-07-22 00:00:00
-Sabah,"Kota Belut","Kota Belut",6.3825,116.4475,5127,MY-12,2015-07-23 00:00:00
-Sabah,"Kota Kinabalu","Kota Kinabalu",5.9587,116.0825,2444,MY-12,2015-07-24 00:00:00
-Sabah,"Kota Kinabalu","Kota Kinabalu",6.0257,116.1522,6208,MY-12,2015-07-25 00:00:00
-Sabah,"Kota Kinabalu","Kota Kinabalu",6.0998,116.179,2518,MY-12,2015-07-26 00:00:00
-Sabah,"Kota Kinabalu","Kota Kinabalu",6.0943,116.1429,4650,MY-12,2015-07-27 00:00:00
-Sabah,"Kota Marudu","Kota Marudu",6.7827,117.1405,5280,MY-12,2015-07-28 00:00:00
-Sabah,"Kota Marudu","Kota Marudu",6.4717,116.8329,7835,MY-12,2015-07-29 00:00:00
-Sabah,"Kota Marudu","Kota Marudu",6.6491,116.7299,4356,MY-12,2015-07-30 00:00:00
-Sabah,"Kota Marudu","Kota Marudu",6.6682,117.1927,1743,MY-12,2015-07-31 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.4317,115.4671,7173,MY-12,2015-08-01 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.4501,115.5368,3600,MY-12,2015-08-02 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.486,115.5889,8810,MY-12,2015-08-03 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.5414,115.5594,7871,MY-12,2015-08-04 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.5575,115.5686,8110,MY-12,2015-08-05 00:00:00
-Sabah,"Kuala Penyu","Kuala Penyu",5.5689,115.5961,1684,MY-12,2015-08-06 00:00:00
-Sabah,Kudat,Kudat,6.7424,116.7502,1511,MY-12,2015-08-07 00:00:00
-Sabah,Kudat,Kudat,6.9244,116.7097,7854,MY-12,2015-08-08 00:00:00
-Sabah,Kudat,Kudat,6.7969,116.6665,7754,MY-12,2015-08-09 00:00:00
-Sabah,Kudat,Kudat,6.8433,116.8251,3987,MY-12,2015-08-10 00:00:00
-Sabah,Kudat,Kudat,6.8835,116.8499,3237,MY-12,2015-08-11 00:00:00
-Sabah,Kudat,Kudat,6.9067,116.8405,2814,MY-12,2015-08-12 00:00:00
-Sabah,Kunak,Kunak,4.7209,118.0433,6803,MY-12,2015-08-13 00:00:00
-Sabah,Kunak,Kunak,4.7517,117.9011,6848,MY-12,2015-08-14 00:00:00
-Sabah,Kunak,Kunak,4.7989,118.0694,6348,MY-12,2015-08-15 00:00:00
-Sabah,Kunak,Kunak,4.647,118.1724,8882,MY-12,2015-08-16 00:00:00
-Sabah,Kunak,Kunak,4.6842,118.2448,4382,MY-12,2015-08-17 00:00:00
-Sabah,Kunak,Kunak,4.6795,118.234,6082,MY-12,2015-08-18 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.0568,118.5361,5060,MY-12,2015-08-19 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.1867,119.0566,3950,MY-12,2015-08-20 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.1293,117.7492,5343,MY-12,2015-08-21 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.0896,118.2107,1367,MY-12,2015-08-22 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.0256,118.3282,7150,MY-12,2015-08-23 00:00:00
-Sabah,"Lahad Datu","Lahad Datu",5.0274,118.3169,8514,MY-12,2015-08-24 00:00:00
-Sabah,Nabawan,Nabawan,5.0399,116.4458,1593,MY-12,2015-08-25 00:00:00
-Sabah,Nabawan,Nabawan,5.0539,116.508,8085,MY-12,2015-08-26 00:00:00
-Sabah,Nabawan,Nabawan,5.0542,116.3494,4981,MY-12,2015-08-27 00:00:00
-Sabah,Nabawan,Nabawan,4.9674,116.452,5550,MY-12,2015-08-28 00:00:00
-Sabah,Nabawan,Nabawan,5.045,116.4349,3597,MY-12,2015-08-29 00:00:00
-Sabah,Nabawan,Nabawan,5.0409,116.4267,5018,MY-12,2015-08-30 00:00:00
-Sabah,Papar,Papar,5.6987,115.977,7035,MY-12,2015-08-31 00:00:00
-Sabah,Papar,Papar,5.5986,115.9327,4386,MY-12,2015-09-01 00:00:00
-Sabah,Papar,Papar,5.7267,116.0903,6568,MY-12,2015-09-02 00:00:00
-Sabah,Papar,Papar,5.8111,116.0289,1819,MY-12,2015-09-03 00:00:00
-Sabah,Papar,Papar,5.7346,115.9307,6121,MY-12,2015-09-04 00:00:00
-Sabah,Papar,Papar,5.7308,115.9353,1194,MY-12,2015-09-05 00:00:00
-Sabah,Penampang,Penampang,5.9167,116.0701,8788,MY-12,2015-09-06 00:00:00
-Sabah,Penampang,Penampang,5.8764,116.101,8209,MY-12,2015-09-07 00:00:00
-Sabah,Penampang,Penampang,5.9324,116.1313,3372,MY-12,2015-09-08 00:00:00
-Sabah,Penampang,Penampang,5.9137,116.1085,5276,MY-12,2015-09-09 00:00:00
-Sabah,Penampang,Penampang,5.9146,116.099,5193,MY-12,2015-09-10 00:00:00
-Sabah,Pitas,Pitas,6.733,117.053,8546,MY-12,2015-09-11 00:00:00
-Sabah,Pitas,Pitas,6.7144,117.049,6138,MY-12,2015-09-12 00:00:00
-Sabah,Pitas,Pitas,6.708,117.0681,5397,MY-12,2015-09-13 00:00:00
-Sabah,Pitas,Pitas,6.7028,117.0441,8165,MY-12,2015-09-14 00:00:00
-Sabah,Pitas,Pitas,6.7036,117.0309,7120,MY-12,2015-09-15 00:00:00
-Sabah,Pitas,Pitas,6.7116,117.033,7973,MY-12,2015-09-16 00:00:00
-Sabah,Putatan,Putatan,5.885,116.05,4748,MY-12,2015-09-17 00:00:00
-Sabah,Putatan,Putatan,5.8916,116.0454,7067,MY-12,2015-09-18 00:00:00
-Sabah,Putatan,Putatan,5.8979,116.0457,1150,MY-12,2015-09-19 00:00:00
-Sabah,Putatan,Putatan,5.8932,116.0427,4694,MY-12,2015-09-20 00:00:00
-Sabah,Putatan,Putatan,5.897,116.0416,7167,MY-12,2015-09-21 00:00:00
-Sabah,Putatan,Putatan,5.8962,116.0403,4071,MY-12,2015-09-22 00:00:00
-Sabah,Ranau,Ranau,6.0171,116.7419,5806,MY-12,2015-09-23 00:00:00
-Sabah,Ranau,Ranau,5.9755,116.8257,8938,MY-12,2015-09-24 00:00:00
-Sabah,Ranau,Ranau,5.7446,116.8161,2389,MY-12,2015-09-25 00:00:00
-Sabah,Ranau,Ranau,5.9366,116.6774,7905,MY-12,2015-09-26 00:00:00
-Sabah,Ranau,Ranau,5.9531,116.6616,8222,MY-12,2015-09-27 00:00:00
-Sabah,Ranau,Ranau,5.9537,116.6688,8943,MY-12,2015-09-28 00:00:00
-Sarawak,Asajaya,Asajaya,1.4772,110.6861,8812,MY-13,2015-09-29 00:00:00
-Sarawak,Asajaya,Asajaya,1.5441,110.6569,7091,MY-13,2015-09-30 00:00:00
-Sarawak,Asajaya,Asajaya,1.5146,110.5364,1874,MY-13,2015-10-01 00:00:00
-Sarawak,Asajaya,Asajaya,1.5005,110.6666,1610,MY-13,2015-10-02 00:00:00
-Sarawak,Asajaya,Asajaya,1.5407,110.5142,8345,MY-13,2015-10-03 00:00:00
-Sarawak,Asajaya,Asajaya,1.5459,110.5236,4055,MY-13,2015-10-04 00:00:00
-Sarawak,Bau,Bau,1.3558,110.1983,2734,MY-13,2015-10-05 00:00:00
-Sarawak,Bau,Bau,1.4217,110.0304,4568,MY-13,2015-10-06 00:00:00
-Sarawak,Bau,Bau,1.3376,109.981,4965,MY-13,2015-10-07 00:00:00
-Sarawak,Bau,Bau,1.4258,110.1091,3709,MY-13,2015-10-08 00:00:00
-Sarawak,Bau,Bau,1.4162,110.1559,5381,MY-13,2015-10-09 00:00:00
-Sarawak,Bau,Bau,1.4235,110.1551,3151,MY-13,2015-10-10 00:00:00
-Sarawak,Belaga,Belaga,3.2904,114.0719,5432,MY-13,2015-10-11 00:00:00
-Sarawak,Belaga,Belaga,3.1094,113.9249,3883,MY-13,2015-10-12 00:00:00
-Sarawak,Belaga,Belaga,2.8159,114.4426,2183,MY-13,2015-10-13 00:00:00
-Sarawak,Belaga,Belaga,2.9284,113.7999,1409,MY-13,2015-10-14 00:00:00
-Sarawak,Belaga,Belaga,3.0456,113.9158,2368,MY-13,2015-10-15 00:00:00
-Sarawak,Belaga,Belaga,3.0529,113.9207,5881,MY-13,2015-10-16 00:00:00
-Sarawak,Betong,Betong,1.4644,111.6233,6439,MY-13,2015-10-17 00:00:00
-Sarawak,Betong,Betong,1.4105,111.6044,4261,MY-13,2015-10-18 00:00:00
-Sarawak,Betong,Betong,1.314,111.5763,7732,MY-13,2015-10-19 00:00:00
-Sarawak,Betong,Betong,1.4156,111.5138,1701,MY-13,2015-10-20 00:00:00
-Sarawak,Betong,Betong,1.402,111.5288,2699,MY-13,2015-10-21 00:00:00
-Sarawak,Betong,Betong,1.4106,111.5264,1352,MY-13,2015-10-22 00:00:00
-Sarawak,Bintulu,Bintulu,2.7224,113.3289,3767,MY-13,2015-10-23 00:00:00
-Sarawak,Bintulu,Bintulu,3.5972,113.3894,7408,MY-13,2015-10-24 00:00:00
-Sarawak,Bintulu,Bintulu,3.3642,113.9771,6138,MY-13,2015-10-25 00:00:00
-Sarawak,Bintulu,Bintulu,3.3957,113.5748,4660,MY-13,2015-10-26 00:00:00
-Sarawak,Bintulu,Bintulu,3.1727,113.0416,5515,MY-13,2015-10-27 00:00:00
-Sarawak,Bintulu,Bintulu,3.176,113.0413,8815,MY-13,2015-10-28 00:00:00
-Sarawak,Dalat,Dalat,2.3534,112.1557,4900,MY-13,2015-10-29 00:00:00
-Sarawak,Dalat,Dalat,2.6381,112.1351,2456,MY-13,2015-10-30 00:00:00
-Sarawak,Dalat,Dalat,2.8637,111.8398,2393,MY-13,2015-10-31 00:00:00
-Sarawak,Dalat,Dalat,2.4583,112.1948,5289,MY-13,2015-11-01 00:00:00
-Sarawak,Dalat,Dalat,2.744,111.9444,3845,MY-13,2015-11-02 00:00:00
-Sarawak,Dalat,Dalat,2.7405,111.939,6952,MY-13,2015-11-03 00:00:00
-Sarawak,Daro,Daro,2.6715,111.4317,5010,MY-13,2015-11-04 00:00:00
-Sarawak,Daro,Daro,2.4883,111.5189,1536,MY-13,2015-11-05 00:00:00
-Sarawak,Daro,Daro,2.6831,111.2937,1282,MY-13,2015-11-06 00:00:00
-Sarawak,Daro,Daro,2.5113,111.3493,4073,MY-13,2015-11-07 00:00:00
-Sarawak,Daro,Daro,2.5059,111.4502,5459,MY-13,2015-11-08 00:00:00
-Sarawak,Daro,Daro,2.5122,111.4323,2227,MY-13,2015-11-09 00:00:00
-Sarawak,Julau,Julau,1.9804,111.748,3608,MY-13,2015-11-10 00:00:00
-Sarawak,Julau,Julau,1.7992,111.9197,6576,MY-13,2015-11-11 00:00:00
-Sarawak,Julau,Julau,1.802,111.8194,3764,MY-13,2015-11-12 00:00:00
-Sarawak,Julau,Julau,2.0545,111.9595,5064,MY-13,2015-11-13 00:00:00
-Sarawak,Julau,Julau,2.025,111.9175,2598,MY-13,2015-11-14 00:00:00
-Sarawak,Julau,Julau,2.0287,111.912,5903,MY-13,2015-11-15 00:00:00
-Sarawak,Kanowit,Kanowit,1.8867,112.1411,6577,MY-13,2015-11-16 00:00:00
-Sarawak,Kanowit,Kanowit,2.0335,111.9956,8228,MY-13,2015-11-17 00:00:00
-Sarawak,Kanowit,Kanowit,2.1653,112.2826,1870,MY-13,2015-11-18 00:00:00
-Sarawak,Kanowit,Kanowit,2.087,112.3389,2724,MY-13,2015-11-19 00:00:00
-Sarawak,Kanowit,Kanowit,2.1015,112.1573,6835,MY-13,2015-11-20 00:00:00
-Sarawak,Kanowit,Kanowit,2.1014,112.1474,6352,MY-13,2015-11-21 00:00:00
-Sarawak,Kapit,Kapit,1.9737,112.8569,1766,MY-13,2015-11-22 00:00:00
-Sarawak,Kapit,Kapit,1.9363,113.0941,8028,MY-13,2015-11-23 00:00:00
-Sarawak,Kapit,Kapit,1.9109,113.576,8247,MY-13,2015-11-24 00:00:00
-Sarawak,Kapit,Kapit,1.6178,113.0678,3491,MY-13,2015-11-25 00:00:00
-Sarawak,Kapit,Kapit,2.0167,112.9414,4392,MY-13,2015-11-26 00:00:00
-Sarawak,Kapit,Kapit,2.0153,112.9403,5733,MY-13,2015-11-27 00:00:00
-Sarawak,Kuching,Kuching,1.5554,110.327,7821,MY-13,2015-11-28 00:00:00
-Sarawak,Kuching,Kuching,1.4576,110.3009,4136,MY-13,2015-11-29 00:00:00
-Sarawak,Kuching,Kuching,1.6337,110.4523,2660,MY-13,2015-11-30 00:00:00
-Sarawak,Kuching,Kuching,1.7208,110.3425,6051,MY-13,2015-12-01 00:00:00
-Sarawak,Kuching,Kuching,1.5853,110.372,3636,MY-13,2015-12-02 00:00:00
-Sarawak,Kuching,Kuching,1.5864,110.3535,3276,MY-13,2015-12-03 00:00:00
-Sarawak,Lawas,Lawas,4.491,115.4821,3072,MY-13,2015-12-04 00:00:00
-Sarawak,Lawas,Lawas,4.699,115.3365,5630,MY-13,2015-12-05 00:00:00
-Sarawak,Lawas,Lawas,4.7859,115.5329,7744,MY-13,2015-12-06 00:00:00
-Sarawak,Lawas,Lawas,4.9228,115.4683,2455,MY-13,2015-12-07 00:00:00
-Sarawak,Lawas,Lawas,4.8612,115.4101,5966,MY-13,2015-12-08 00:00:00
-Sarawak,Lawas,Lawas,4.8535,115.4009,4728,MY-13,2015-12-09 00:00:00
-Sarawak,Limbang,Limbang,4.7549,114.8559,7900,MY-13,2015-12-10 00:00:00
-Sarawak,Limbang,Limbang,4.627,114.825,6322,MY-13,2015-12-11 00:00:00
-Sarawak,Limbang,Limbang,4.4538,115.0571,1505,MY-13,2015-12-12 00:00:00
-Sarawak,Limbang,Limbang,4.0734,115.3149,2485,MY-13,2015-12-13 00:00:00
-Sarawak,Limbang,Limbang,4.7579,115.0078,6965,MY-13,2015-12-14 00:00:00
-Sarawak,Limbang,Limbang,4.755,115.0096,4233,MY-13,2015-12-15 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.0887,111.8828,4255,MY-13,2015-12-16 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.2397,111.8251,3092,MY-13,2015-12-17 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.0104,111.8339,5984,MY-13,2015-12-18 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.2315,111.9499,4816,MY-13,2015-12-19 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.1363,111.6688,6834,MY-13,2015-12-20 00:00:00
-Sarawak,"Lubok Antu","Lubok Antu",1.1487,111.6611,8802,MY-13,2015-12-21 00:00:00
-Sarawak,Lundu,Lundu,1.7497,109.7889,2682,MY-13,2015-12-22 00:00:00
-Sarawak,Lundu,Lundu,1.6379,109.9571,7547,MY-13,2015-12-23 00:00:00
-Sarawak,Lundu,Lundu,1.5425,109.8411,7805,MY-13,2015-12-24 00:00:00
-Sarawak,Lundu,Lundu,1.6214,110.1047,2594,MY-13,2015-12-25 00:00:00
-Sarawak,Lundu,Lundu,1.6713,109.854,7491,MY-13,2015-12-26 00:00:00
-Sarawak,Lundu,Lundu,1.6832,109.8514,6654,MY-13,2015-12-27 00:00:00
-Sarawak,Maradong,Maradong,2.2077,111.6266,8376,MY-13,2015-12-28 00:00:00
-Sarawak,Maradong,Maradong,2.2324,111.5223,1416,MY-13,2015-12-29 00:00:00
-Sarawak,Maradong,Maradong,2.1267,111.7701,4580,MY-13,2015-12-30 00:00:00
-Sarawak,Maradong,Maradong,2.067,111.7022,1377,MY-13,2015-12-31 00:00:00
-Sarawak,Maradong,Maradong,2.1703,111.6362,5022,MY-13,2015-01-01 00:00:00
-Sarawak,Maradong,Maradong,2.1686,111.6345,4572,MY-13,2015-01-02 00:00:00
-Sarawak,Marudi,Marudi,4.2913,114.2963,1364,MY-13,2015-01-03 00:00:00
-Sarawak,Marudi,Marudi,4.2458,114.4409,6168,MY-13,2015-01-04 00:00:00
-Sarawak,Marudi,Marudi,4.0983,114.4578,7592,MY-13,2015-01-05 00:00:00
-Sarawak,Marudi,Marudi,4.3356,114.2659,8938,MY-13,2015-01-06 00:00:00
-Sarawak,Marudi,Marudi,4.1788,114.3197,8993,MY-13,2015-01-07 00:00:00
-Sarawak,Marudi,Marudi,4.1783,114.3265,1409,MY-13,2015-01-08 00:00:00
-Sarawak,Matu,Matu,2.7948,111.6835,7798,MY-13,2015-01-09 00:00:00
-Sarawak,Matu,Matu,2.672,111.5627,7728,MY-13,2015-01-10 00:00:00
-Sarawak,Matu,Matu,2.6377,111.5187,1693,MY-13,2015-01-11 00:00:00
-Sarawak,Matu,Matu,2.7382,111.6362,5702,MY-13,2015-01-12 00:00:00
-Sarawak,Matu,Matu,2.7158,111.5659,1494,MY-13,2015-01-13 00:00:00
-Sarawak,Matu,Matu,2.6697,111.5398,6087,MY-13,2015-01-14 00:00:00
-Sarawak,Miri,Miri,3.6056,113.8107,7541,MY-13,2015-01-15 00:00:00
-Sarawak,Miri,Miri,3.7495,113.7874,5846,MY-13,2015-01-16 00:00:00
-Sarawak,Miri,Miri,4.5411,114.1185,4744,MY-13,2015-01-17 00:00:00
-Sarawak,Miri,Miri,4.3088,114.0175,2374,MY-13,2015-01-18 00:00:00
-Sarawak,Miri,Miri,4.3967,113.9931,5413,MY-13,2015-01-19 00:00:00
-Sarawak,Miri,Miri,4.4011,113.992,5794,MY-13,2015-01-20 00:00:00
-Sarawak,Mukah,Mukah,2.9047,112.2649,3958,MY-13,2015-01-21 00:00:00
-Sarawak,Mukah,Mukah,2.8395,112.049,2979,MY-13,2015-01-22 00:00:00
-Sarawak,Mukah,Mukah,2.7778,112.3116,2068,MY-13,2015-01-23 00:00:00
-Sarawak,Mukah,Mukah,2.6077,112.2148,4309,MY-13,2015-01-24 00:00:00
-Sarawak,Mukah,Mukah,2.8973,112.0893,2974,MY-13,2015-01-25 00:00:00
-Sarawak,Mukah,Mukah,2.8949,112.0915,8052,MY-13,2015-01-26 00:00:00
-Sarawak,Padawan,Padawan,1.4261,110.3249,8004,MY-13,2015-01-27 00:00:00
-Sarawak,Padawan,Padawan,1.4241,110.3267,8562,MY-13,2015-01-28 00:00:00
-Sarawak,Padawan,Padawan,1.4289,110.3276,7994,MY-13,2015-01-29 00:00:00
-Sarawak,Padawan,Padawan,1.4254,110.3273,2115,MY-13,2015-01-30 00:00:00
-Sarawak,Padawan,Padawan,1.4274,110.3257,3475,MY-13,2015-01-31 00:00:00
-Sarawak,Padawan,Padawan,1.425,110.3265,4260,MY-13,2015-02-01 00:00:00
-Sarawak,Pakan,Pakan,1.7615,111.6857,8665,MY-13,2015-02-02 00:00:00
-Sarawak,Pakan,Pakan,1.8603,111.7081,4779,MY-13,2015-02-03 00:00:00
-Sarawak,Pakan,Pakan,1.9042,111.5955,8774,MY-13,2015-02-04 00:00:00
-Sarawak,Pakan,Pakan,1.9708,111.6848,1059,MY-13,2015-02-05 00:00:00
-Sarawak,Pakan,Pakan,1.8952,111.6804,4667,MY-13,2015-02-06 00:00:00
-Sarawak,Pakan,Pakan,1.8941,111.6798,8774,MY-13,2015-02-07 00:00:00
-Sarawak,Samarahan,Samarahan,1.4381,110.4571,6361,MY-13,2015-02-08 00:00:00
-Sarawak,Samarahan,Samarahan,1.4893,110.4073,7284,MY-13,2015-02-09 00:00:00
-Sarawak,Samarahan,Samarahan,1.4605,110.6323,4167,MY-13,2015-02-10 00:00:00
-Sarawak,Samarahan,Samarahan,1.3823,110.4359,3740,MY-13,2015-02-11 00:00:00
-Sarawak,Samarahan,Samarahan,1.4598,110.4955,4069,MY-13,2015-02-12 00:00:00
-Sarawak,Samarahan,Samarahan,1.4592,110.477,7270,MY-13,2015-02-13 00:00:00
-Sarawak,Saratok,Saratok,1.7486,111.3362,3932,MY-13,2015-02-14 00:00:00
-Sarawak,Saratok,Saratok,1.7513,111.3026,1177,MY-13,2015-02-15 00:00:00
-Sarawak,Saratok,Saratok,1.7159,111.3008,5870,MY-13,2015-02-16 00:00:00
-Sarawak,Saratok,Saratok,1.7913,111.3121,5787,MY-13,2015-02-17 00:00:00
-Sarawak,Saratok,Saratok,1.7384,111.3377,3929,MY-13,2015-02-18 00:00:00
-Sarawak,Saratok,Saratok,1.753,111.3414,4991,MY-13,2015-02-19 00:00:00
-Sarawak,Sarikei,Sarikei,2.1179,111.5693,6528,MY-13,2015-02-20 00:00:00
-Sarawak,Sarikei,Sarikei,2.0315,111.5108,4978,MY-13,2015-02-21 00:00:00
-Sarawak,Sarikei,Sarikei,2.0919,111.3727,3930,MY-13,2015-02-22 00:00:00
-Sarawak,Sarikei,Sarikei,2.1192,111.528,2862,MY-13,2015-02-23 00:00:00
-Sarawak,Sarikei,Sarikei,2.1312,111.5221,1508,MY-13,2015-02-24 00:00:00
-Sarawak,Sarikei,Sarikei,2.1304,111.5247,7063,MY-13,2015-02-25 00:00:00
-Sarawak,Selagau,Selangau,2.5243,112.325,6563,MY-13,2015-02-26 00:00:00
-Sarawak,Selagau,Selangau,2.5225,112.3261,2698,MY-13,2015-02-27 00:00:00
-Sarawak,Selagau,Selangau,2.5231,112.327,1911,MY-13,2015-02-28 00:00:00
-Sarawak,Selagau,Selangau,2.5251,112.3256,7149,MY-13,2015-03-01 00:00:00
-Sarawak,Selagau,Selangau,2.5232,112.3258,1725,MY-13,2015-03-02 00:00:00
-Sarawak,Selagau,Selangau,2.5246,112.3262,7127,MY-13,2015-03-03 00:00:00
-Sarawak,Serian,Serian,1.2155,110.5741,8575,MY-13,2015-03-04 00:00:00
-Sarawak,Serian,Serian,1.164,110.6538,7127,MY-13,2015-03-05 00:00:00
-Sarawak,Serian,Serian,1.2628,110.5391,5420,MY-13,2015-03-06 00:00:00
-Sarawak,Serian,Serian,1.0507,110.5796,5749,MY-13,2015-03-07 00:00:00
-Sarawak,Serian,Serian,1.1672,110.5664,1052,MY-13,2015-03-08 00:00:00
-Sarawak,Serian,Serian,1.1731,110.5672,2834,MY-13,2015-03-09 00:00:00
-Sarawak,Sibu,Sibu,2.3027,111.8864,3215,MY-13,2015-03-10 00:00:00
-Sarawak,Sibu,Sibu,2.3315,111.6969,8327,MY-13,2015-03-11 00:00:00
-Sarawak,Sibu,Sibu,2.4632,111.8946,6576,MY-13,2015-03-12 00:00:00
-Sarawak,Sibu,Sibu,2.1284,111.9029,8911,MY-13,2015-03-13 00:00:00
-Sarawak,Sibu,Sibu,2.2931,111.842,2717,MY-13,2015-03-14 00:00:00
-Sarawak,Sibu,Sibu,2.2956,111.824,6375,MY-13,2015-03-15 00:00:00
-Sarawak,Simunjan,Simunjan,1.0871,110.8881,7177,MY-13,2015-03-16 00:00:00
-Sarawak,Simunjan,Simunjan,1.0823,110.9633,6399,MY-13,2015-03-17 00:00:00
-Sarawak,Simunjan,Simunjan,1.1973,110.9248,2342,MY-13,2015-03-18 00:00:00
-Sarawak,Simunjan,Simunjan,1.2381,110.7714,8943,MY-13,2015-03-19 00:00:00
-Sarawak,Simunjan,Simunjan,1.186,110.9033,8258,MY-13,2015-03-20 00:00:00
-Sarawak,Simunjan,Simunjan,1.1246,110.9326,7688,MY-13,2015-03-21 00:00:00
-Sarawak,Song,Song,1.7051,112.7747,1603,MY-13,2015-03-22 00:00:00
-Sarawak,Song,Song,1.8396,112.7143,1105,MY-13,2015-03-23 00:00:00
-Sarawak,Song,Song,2.0002,112.5413,1879,MY-13,2015-03-24 00:00:00
-Sarawak,Song,Song,1.6475,112.6978,7662,MY-13,2015-03-25 00:00:00
-Sarawak,Song,Song,2.0005,112.549,8292,MY-13,2015-03-26 00:00:00
-Sarawak,Song,Song,2.0075,112.5482,3963,MY-13,2015-03-27 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.1862,111.4494,8091,MY-13,2015-03-28 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.2713,111.3821,5303,MY-13,2015-03-29 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.2967,111.4906,2416,MY-13,2015-03-30 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.2027,111.5146,3304,MY-13,2015-03-31 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.2307,111.4561,2985,MY-13,2015-04-01 00:00:00
-Sarawak,"Sri Aman","Sri Aman",1.2341,111.4634,4391,MY-13,2015-04-02 00:00:00
-Sarawak,Tatau,Tatau,2.8711,112.8515,3752,MY-13,2015-04-03 00:00:00
-Sarawak,Tatau,Tatau,2.8888,112.8486,7473,MY-13,2015-04-04 00:00:00
-Sarawak,Tatau,Tatau,2.9105,112.8581,1729,MY-13,2015-04-05 00:00:00
-Sarawak,Tatau,Tatau,3.0045,112.8478,7972,MY-13,2015-04-06 00:00:00
-Sarawak,Tatau,Tatau,2.8804,112.8545,7376,MY-13,2015-04-07 00:00:00
-Sarawak,Tatau,Tatau,2.8779,112.8506,2228,MY-13,2015-04-08 00:00:00
+States,District,Cities,Latitude,Longitude,Sample_Population,ISO,ISO_district,Date
+"Kedah","Baling","Baling",5.6831,100.9106,2395,"MY-02","MY-02.1",2015-01-01 00:00:00
+"Kedah","Baling","Baling",5.8149,100.8916,6412,"MY-02","MY-02.1",2015-01-02 00:00:00
+"Kedah","Baling","Baling",5.7138,100.8009,7569,"MY-02","MY-02.1",2015-01-03 00:00:00
+"Kedah","Baling","Baling",5.7073,100.9602,2004,"MY-02","MY-02.1",2015-01-04 00:00:00
+"Kedah","Baling","Baling",5.6875,100.9262,7823,"MY-02","MY-02.1",2015-01-05 00:00:00
+"Kedah","Baling","Baling",5.6914,100.8494,5401,"MY-02","MY-02.1",2015-01-06 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.2144,100.6151,5710,"MY-02","MY-02.2",2015-01-07 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.1964,100.5844,3547,"MY-02","MY-02.2",2015-01-08 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.2035,100.6273,5036,"MY-02","MY-02.2",2015-01-09 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.2455,100.6017,6572,"MY-02","MY-02.2",2015-01-10 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.2251,100.595,3340,"MY-02","MY-02.2",2015-01-11 00:00:00
+"Kedah","Bandar Baharu","Serdang",5.2648,100.6143,4828,"MY-02","MY-02.2",2015-01-12 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.6552,100.5292,7595,"MY-02","MY-02.4",2015-01-13 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.647,100.4862,3041,"MY-02","MY-02.4",2015-01-14 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.6432,100.5699,4013,"MY-02","MY-02.4",2015-01-15 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.6519,100.549,7397,"MY-02","MY-02.4",2015-01-16 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.6852,100.5695,6954,"MY-02","MY-02.4",2015-01-17 00:00:00
+"Kedah","Kuala Muda","Sungai Petani",5.6695,100.4926,5930,"MY-02","MY-02.4",2015-01-18 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.2413,100.4322,3607,"MY-02","MY-02.5",2015-01-19 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.2793,100.4203,6054,"MY-02","MY-02.5",2015-01-20 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.273,100.4583,5282,"MY-02","MY-02.5",2015-01-21 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.3288,100.478,1553,"MY-02","MY-02.5",2015-01-22 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.2683,100.4248,7607,"MY-02","MY-02.5",2015-01-23 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.2757,100.422,8364,"MY-02","MY-02.5",2015-01-24 00:00:00
+"Kedah","Kubang Pasu","Jitra",6.3288,100.478,8008,"MY-02","MY-02.5",2015-01-25 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.4576,100.503,4607,"MY-02","MY-02.5",2015-01-26 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.446,100.486,3015,"MY-02","MY-02.5",2015-01-27 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.44,100.531,6021,"MY-02","MY-02.5",2015-01-28 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.442,100.479,4686,"MY-02","MY-02.5",2015-01-29 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.425,100.498,5952,"MY-02","MY-02.5",2015-01-30 00:00:00
+"Kedah","Kubang Pasu","Sintok",6.467,100.538,2248,"MY-02","MY-02.5",2015-01-31 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.5,100.411,4091,"MY-02","MY-02.5",2015-02-01 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.516,100.4352,1970,"MY-02","MY-02.5",2015-02-02 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.5,100.228,8017,"MY-02","MY-02.5",2015-02-03 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.515,100.3938,6423,"MY-02","MY-02.5",2015-02-04 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.495,100.3983,5825,"MY-02","MY-02.5",2015-02-05 00:00:00
+"Kedah","Kubang Pasu","Bukit Kayu Hitam",6.513,100.445,1539,"MY-02","MY-02.5",2015-02-06 00:00:00
+"Kedah","Kulim","Kulim",5.3411,100.5649,4418,"MY-02","MY-02.6",2015-02-07 00:00:00
+"Kedah","Kulim","Kulim",5.4165,100.5797,3611,"MY-02","MY-02.6",2015-02-08 00:00:00
+"Kedah","Kulim","Kulim",5.309,100.5663,4755,"MY-02","MY-02.6",2015-02-09 00:00:00
+"Kedah","Kulim","Kulim",5.3926,100.5367,3150,"MY-02","MY-02.6",2015-02-10 00:00:00
+"Kedah","Kulim","Kulim",5.3683,100.5576,7659,"MY-02","MY-02.6",2015-02-11 00:00:00
+"Kedah","Kulim","Kulim",5.3846,100.5461,5424,"MY-02","MY-02.6",2015-02-12 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.124,100.3684,8501,"MY-02","MY-02.3",2015-02-13 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.1281,100.3433,1375,"MY-02","MY-02.3",2015-02-14 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.1609,100.3634,6368,"MY-02","MY-02.3",2015-02-15 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.1205,100.3684,7770,"MY-02","MY-02.3",2015-02-16 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.1512,100.3475,6267,"MY-02","MY-02.3",2015-02-17 00:00:00
+"Kedah","Kota Setar","Alor Setar",6.1085,100.3547,4817,"MY-02","MY-02.3",2015-02-18 00:00:00
+"Kedah","Langkawi","Langkawi",6.346,99.7904,6388,"MY-02","MY-02.7",2015-02-19 00:00:00
+"Kedah","Langkawi","Langkawi",6.3311,99.8313,8413,"MY-02","MY-02.7",2015-02-20 00:00:00
+"Kedah","Langkawi","Langkawi",6.285,99.7472,2085,"MY-02","MY-02.7",2015-02-21 00:00:00
+"Kedah","Langkawi","Langkawi",6.3918,99.7166,8808,"MY-02","MY-02.7",2015-02-22 00:00:00
+"Kedah","Langkawi","Langkawi",6.3406,99.7838,7529,"MY-02","MY-02.7",2015-02-23 00:00:00
+"Kedah","Langkawi","Langkawi",6.3613,99.7897,1831,"MY-02","MY-02.7",2015-02-24 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.2465,100.57771,8456,"MY-02","MY-02.8",2015-02-25 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.2692,100.6245,2514,"MY-02","MY-02.8",2015-02-26 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.1984,100.7522,7329,"MY-02","MY-02.8",2015-02-27 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.2803,100.5442,1106,"MY-02","MY-02.8",2015-02-28 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.201,100.718,8560,"MY-02","MY-02.8",2015-03-01 00:00:00
+"Kedah","Padang Terap","Kuala Nerang",6.2296,100.6219,4184,"MY-02","MY-02.8",2015-03-02 00:00:00
+"Kedah","Pendang","Pendang",5.9717,100.5149,6203,"MY-02","MY-02.9",2015-03-03 00:00:00
+"Kedah","Pendang","Pendang",6.0218,100.481,5570,"MY-02","MY-02.9",2015-03-04 00:00:00
+"Kedah","Pendang","Pendang",5.9588,100.4771,2057,"MY-02","MY-02.9",2015-03-05 00:00:00
+"Kedah","Pendang","Pendang",5.9962,100.6077,6497,"MY-02","MY-02.9",2015-03-06 00:00:00
+"Kedah","Pendang","Pendang",6.0255,100.5213,6688,"MY-02","MY-02.9",2015-03-07 00:00:00
+"Kedah","Pendang","Pendang",6.0326,100.5413,1564,"MY-02","MY-02.9",2015-03-08 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.103,100.6163,8790,"MY-02","MY-02.10",2015-03-09 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.2139,100.5109,4816,"MY-02","MY-02.10",2015-03-10 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.1091,100.7172,7598,"MY-02","MY-02.10",2015-03-11 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.0494,100.6156,2749,"MY-02","MY-02.10",2015-03-12 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.1585,100.5013,7651,"MY-02","MY-02.10",2015-03-13 00:00:00
+"Kedah","Pokok Sena","Pokok Sena",6.1176,100.6276,6042,"MY-02","MY-02.10",2015-03-14 00:00:00
+"Kedah","Sik","Sik",5.9903,100.8149,6012,"MY-02","MY-02.11",2015-03-15 00:00:00
+"Kedah","Sik","Sik",6.0098,100.7514,6047,"MY-02","MY-02.11",2015-03-16 00:00:00
+"Kedah","Sik","Sik",5.9835,100.6944,1373,"MY-02","MY-02.11",2015-03-17 00:00:00
+"Kedah","Sik","Sik",5.7513,100.726,5292,"MY-02","MY-02.11",2015-03-18 00:00:00
+"Kedah","Sik","Sik",5.8261,100.7296,1672,"MY-02","MY-02.11",2015-03-19 00:00:00
+"Kedah","Sik","Sik",6.0347,100.7271,6322,"MY-02","MY-02.11",2015-03-20 00:00:00
+"Kedah","Yan","Yan",5.7855,100.3724,3491,"MY-02","MY-02.12",2015-03-21 00:00:00
+"Kedah","Yan","Yan",5.8398,100.3849,7437,"MY-02","MY-02.12",2015-03-22 00:00:00
+"Kedah","Yan","Yan",5.8398,100.4161,1002,"MY-02","MY-02.12",2015-03-23 00:00:00
+"Kedah","Yan","Yan",5.8744,100.4222,3068,"MY-02","MY-02.12",2015-03-24 00:00:00
+"Kedah","Yan","Yan",5.8544,100.4091,4418,"MY-02","MY-02.12",2015-03-25 00:00:00
+"Kedah","Yan","Yan",5.821,100.3878,1712,"MY-02","MY-02.12",2015-03-26 00:00:00
+"Perlis","Arau","Arau",6.433,100.2604,7416,"MY-09","MY-09",2015-03-27 00:00:00
+"Perlis","Arau","Arau",6.4256,100.2893,5619,"MY-09","MY-09",2015-03-28 00:00:00
+"Perlis","Arau","Arau",6.3906,100.2511,4482,"MY-09","MY-09",2015-03-29 00:00:00
+"Perlis","Arau","Arau",6.4399,100.3308,5515,"MY-09","MY-09",2015-03-30 00:00:00
+"Perlis","Arau","Arau",6.4345,100.3142,3828,"MY-09","MY-09",2015-03-31 00:00:00
+"Perlis","Arau","Arau",6.4311,100.2531,1310,"MY-09","MY-09",2015-04-01 00:00:00
+"Perlis","Kangar","Kangar",6.4396,100.1926,3506,"MY-09","MY-09",2015-04-02 00:00:00
+"Perlis","Kangar","Kangar",6.4497,100.1981,5663,"MY-09","MY-09",2015-04-03 00:00:00
+"Perlis","Kangar","Kangar",6.4465,100.203,1385,"MY-09","MY-09",2015-04-04 00:00:00
+"Perlis","Kangar","Kangar",6.462,100.1685,2739,"MY-09","MY-09",2015-04-05 00:00:00
+"Perlis","Kangar","Kangar",6.5106,100.2535,8276,"MY-09","MY-09",2015-04-06 00:00:00
+"Perlis","Kangar","Kangar",6.4416,100.1922,7760,"MY-09","MY-09",2015-04-07 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6605,100.3115,3536,"MY-09","MY-09",2015-04-08 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6999,100.2097,8435,"MY-09","MY-09",2015-04-09 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6551,100.2802,4026,"MY-09","MY-09",2015-04-10 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6624,100.2852,2966,"MY-09","MY-09",2015-04-11 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6325,100.2721,6267,"MY-09","MY-09",2015-04-12 00:00:00
+"Perlis","Padang Besar","Padang Besar",6.6543,100.2545,1192,"MY-09","MY-09",2015-04-13 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.3968,100.1296,6439,"MY-09","MY-09",2015-04-14 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.4056,100.1464,7002,"MY-09","MY-09",2015-04-15 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.4151,100.1492,5532,"MY-09","MY-09",2015-04-16 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.3919,100.1603,6762,"MY-09","MY-09",2015-04-17 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.3865,100.1469,8453,"MY-09","MY-09",2015-04-18 00:00:00
+"Perlis","Kuala Perlis","Kuala Perlis",6.4072,100.1491,2192,"MY-09","MY-09",2015-04-19 00:00:00
+"Perak","Batang Padang","Tapah",4.1963,101.2591,6895,"MY-08","MY-08.1",2015-04-20 00:00:00
+"Perak","Batang Padang","Tapah",4.1898,101.2617,6842,"MY-08","MY-08.1",2015-04-21 00:00:00
+"Perak","Batang Padang","Tapah",4.2088,101.2566,4024,"MY-08","MY-08.1",2015-04-22 00:00:00
+"Perak","Batang Padang","Tapah",4.1887,101.2652,2666,"MY-08","MY-08.1",2015-04-23 00:00:00
+"Perak","Batang Padang","Tapah",4.2124,101.2381,4514,"MY-08","MY-08.1",2015-04-24 00:00:00
+"Perak","Batang Padang","Tapah",4.2141,101.2914,1652,"MY-08","MY-08.1",2015-04-25 00:00:00
+"Perak","Hilir Perak","Teluk Intan",4.0183,101.0063,6745,"MY-08","MY-08.2",2015-04-26 00:00:00
+"Perak","Hilir Perak","Teluk Intan",4.0486,101.0312,3815,"MY-08","MY-08.2",2015-04-27 00:00:00
+"Perak","Hilir Perak","Teluk Intan",3.9979,101.015,4636,"MY-08","MY-08.2",2015-04-28 00:00:00
+"Perak","Hilir Perak","Teluk Intan",4.003,101.0362,5999,"MY-08","MY-08.2",2015-04-29 00:00:00
+"Perak","Hilir Perak","Teluk Intan",4.0796,100.9675,4406,"MY-08","MY-08.2",2015-04-30 00:00:00
+"Perak","Hilir Perak","Teluk Intan",4.0536,101.047,8676,"MY-08","MY-08.2",2015-05-01 00:00:00
+"Perak","Hulu Perak","Gerik",5.4456,101.1119,2847,"MY-08","MY-08.3",2015-05-02 00:00:00
+"Perak","Hulu Perak","Gerik",5.4763,101.1772,4194,"MY-08","MY-08.3",2015-05-03 00:00:00
+"Perak","Hulu Perak","Lenggong",5.171,100.928,3995,"MY-08","MY-08.3",2015-05-04 00:00:00
+"Perak","Hulu Perak","Lenggong",5.1013,100.971,2400,"MY-08","MY-08.3",2015-05-05 00:00:00
+"Perak","Hulu Perak","Lenggong",5.1382,100.9667,8089,"MY-08","MY-08.3",2015-05-06 00:00:00
+"Perak","Hulu Perak","Lenggong",5,100.97,7833,"MY-08","MY-08.3",2015-05-07 00:00:00
+"Perak","Hulu Perak","Lenggong",5.282,101.03,2632,"MY-08","MY-08.3",2015-05-08 00:00:00
+"Perak","Hulu Perak","Lenggong",5.309,101.113,8818,"MY-08","MY-08.3",2015-05-09 00:00:00
+"Perak","Hulu Perak","Gerik",5.3902,101.1826,2947,"MY-08","MY-08.3",2015-05-10 00:00:00
+"Perak","Hulu Perak","Gerik",5.3601,101.1469,4878,"MY-08","MY-08.3",2015-05-11 00:00:00
+"Perak","Hulu Perak","Gerik",5.4928,101.149,8010,"MY-08","MY-08.3",2015-05-12 00:00:00
+"Perak","Hulu Perak","Gerik",5.3848,101.1092,1393,"MY-08","MY-08.3",2015-05-13 00:00:00
+"Perak","Kampar","Kampar",4.2006,101.1533,3038,"MY-08","MY-08.4",2015-05-14 00:00:00
+"Perak","Kampar","Kampar",4.3239,101.1437,8408,"MY-08","MY-08.4",2015-05-15 00:00:00
+"Perak","Kampar","Kampar",4.2862,101.145,5517,"MY-08","MY-08.4",2015-05-16 00:00:00
+"Perak","Kampar","Kampar",4.2417,101.1396,5695,"MY-08","MY-08.4",2015-05-17 00:00:00
+"Perak","Kampar","Kampar",4.2707,101.1338,7026,"MY-08","MY-08.4",2015-05-18 00:00:00
+"Perak","Kampar","Kampar",4.3144,101.142,4420,"MY-08","MY-08.4",2015-05-19 00:00:00
+"Perak","Kerian","Parit Buntar",5.1251,100.4892,3884,"MY-08","MY-08.5",2015-05-20 00:00:00
+"Perak","Kerian","Parit Buntar",5.1149,100.477,2576,"MY-08","MY-08.5",2015-05-21 00:00:00
+"Perak","Kerian","Parit Buntar",5.1057,100.489,3374,"MY-08","MY-08.5",2015-05-22 00:00:00
+"Perak","Kerian","Parit Buntar",5.1169,100.4626,7485,"MY-08","MY-08.5",2015-05-23 00:00:00
+"Perak","Kerian","Parit Buntar",5.1078,100.4891,4233,"MY-08","MY-08.5",2015-05-24 00:00:00
+"Perak","Kerian","Parit Buntar",5.1281,100.4831,7169,"MY-08","MY-08.5",2015-05-25 00:00:00
+"Perak","Kinta","Ipoh",4.628,101.0969,3501,"MY-08","MY-08.6",2015-05-26 00:00:00
+"Perak","Kinta","Ipoh",4.6654,101.095,1559,"MY-08","MY-08.6",2015-05-27 00:00:00
+"Perak","Kinta","Ipoh",4.5977,101.1074,8007,"MY-08","MY-08.6",2015-05-28 00:00:00
+"Perak","Kinta","Ipoh",4.6517,101.0727,3803,"MY-08","MY-08.6",2015-05-29 00:00:00
+"Perak","Kinta","Ipoh",4.6227,101.0675,1271,"MY-08","MY-08.6",2015-05-30 00:00:00
+"Perak","Kinta","Ipoh",4.5969,101.0753,1570,"MY-08","MY-08.6",2015-05-31 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7668,100.9476,8610,"MY-08","MY-08.7",2015-06-01 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7701,100.9311,8187,"MY-08","MY-08.7",2015-06-02 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7821,100.9343,1086,"MY-08","MY-08.7",2015-06-03 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7704,100.916,4878,"MY-08","MY-08.7",2015-06-04 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7501,100.9336,5057,"MY-08","MY-08.7",2015-06-05 00:00:00
+"Perak","Kuala Kangsar","Kuala Kangsar",4.7873,100.956,8074,"MY-08","MY-08.7",2015-06-06 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8495,5421,"MY-08","MY-08.8",2015-06-07 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8584,6784,"MY-08","MY-08.8",2015-06-08 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8533,5078,"MY-08","MY-08.8",2015-06-09 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8636,2651,"MY-08","MY-08.8",2015-06-10 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8849,4004,"MY-08","MY-08.8",2015-06-11 00:00:00
+"Perak","Larut","Matang & Selama","Taiping",4.8434,5286,"MY-08","MY-08.8",2015-06-12 00:00:00
+"Perak","Manjung","Seri Manjung",4.1809,100.6397,6651,"MY-08","MY-08.9",2015-06-13 00:00:00
+"Perak","Manjung","Seri Manjung",4.1962,100.6646,6893,"MY-08","MY-08.9",2015-06-14 00:00:00
+"Perak","Manjung","Seri Manjung",4.2144,100.6685,6793,"MY-08","MY-08.9",2015-06-15 00:00:00
+"Perak","Manjung","Seri Manjung",4.1845,100.6643,1647,"MY-08","MY-08.9",2015-06-16 00:00:00
+"Perak","Manjung","Seri Manjung",4.2197,100.6703,8616,"MY-08","MY-08.9",2015-06-17 00:00:00
+"Perak","Manjung","Seri Manjung",4.1924,100.6569,7102,"MY-08","MY-08.9",2015-06-18 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.3657,100.9592,5989,"MY-08","MY-08.10",2015-06-25 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.3533,100.961,2612,"MY-08","MY-08.10",2015-06-26 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.3637,100.9811,6176,"MY-08","MY-08.10",2015-06-27 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.3684,100.9589,7191,"MY-08","MY-08.10",2015-06-28 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.3646,100.9834,3024,"MY-08","MY-08.10",2015-06-29 00:00:00
+"Perak","Perak Tengah","Seri Iskandar",4.366,100.9546,5858,"MY-08","MY-08.10",2015-06-30 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3765,100.2203,2315,"MY-07","MY-07.1",2015-07-01 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3593,100.2107,2158,"MY-07","MY-07.1",2015-07-02 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3404,100.2368,1721,"MY-07","MY-07.1",2015-07-03 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3346,100.2282,1235,"MY-07","MY-07.1",2015-07-04 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3415,100.2141,6561,"MY-07","MY-07.1",2015-07-05 00:00:00
+"Penang","Barat Daya Pulau Pinang","Balik Pulau",5.3494,100.2327,8769,"MY-07","MY-07.1",2015-07-06 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.2625,100.5106,1253,"MY-07","MY-07.2",2015-07-07 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.1819,100.481,2594,"MY-07","MY-07.2",2015-07-08 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.1538,100.4831,7035,"MY-07","MY-07.2",2015-07-09 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.2673,100.4522,8453,"MY-07","MY-07.2",2015-07-10 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.2347,100.5085,6123,"MY-07","MY-07.2",2015-07-11 00:00:00
+"Penang","Seberang Perai Selatan","Sungai Jawi",5.2759,100.4831,1734,"MY-07","MY-07.2",2015-07-12 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.3486,100.4835,8303,"MY-07","MY-07.3",2015-07-13 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.3749,100.4667,2141,"MY-07","MY-07.3",2015-07-14 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.3739,100.4214,5042,"MY-07","MY-07.3",2015-07-15 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.341,100.5134,5278,"MY-07","MY-07.3",2015-07-16 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.3656,100.4466,5973,"MY-07","MY-07.3",2015-07-17 00:00:00
+"Penang","Seberang Perai Tengah","Bukit Mertajam",5.3594,100.4634,6365,"MY-07","MY-07.3",2015-07-18 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.517,100.4488,5131,"MY-07","MY-07.4",2015-07-19 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.5351,100.4649,1080,"MY-07","MY-07.4",2015-07-20 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.5023,100.4464,3133,"MY-07","MY-07.4",2015-07-21 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.4777,100.4389,3910,"MY-07","MY-07.4",2015-07-22 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.5261,100.465,1811,"MY-07","MY-07.4",2015-07-23 00:00:00
+"Penang","Seberang Perai Utara","Kepala Batas",5.5149,100.434,3155,"MY-07","MY-07.4",2015-07-24 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.4271,100.3056,4450,"MY-07","MY-07.5",2015-07-25 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.3977,100.3018,1704,"MY-07","MY-07.5",2015-07-26 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.4182,100.3276,2577,"MY-07","MY-07.5",2015-07-27 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.3844,100.3046,8161,"MY-07","MY-07.5",2015-07-28 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.4178,100.3204,5130,"MY-07","MY-07.5",2015-07-29 00:00:00
+"Penang","Timur Laut Pulau Pinang","George Town",5.4145,100.3129,2539,"MY-07","MY-07.5",2015-07-30 00:00:00
+"Selangor","Gombak","Rawang",3.3004,101.6403,7898,"MY-10","MY-10.1",2015-07-31 00:00:00
+"Selangor","Gombak","Rawang",3.2826,101.5263,1757,"MY-10","MY-10.1",2015-08-01 00:00:00
+"Selangor","Gombak","Rawang",3.2394,101.5407,3599,"MY-10","MY-10.1",2015-08-02 00:00:00
+"Selangor","Gombak","Rawang",3.2638,101.6843,4521,"MY-10","MY-10.1",2015-08-03 00:00:00
+"Selangor","Gombak","Rawang",3.3192,101.5745,4463,"MY-10","MY-10.1",2015-08-04 00:00:00
+"Selangor","Hulu Langat","Hulu Langat",3.1997,101.8567,6249,"MY-10","MY-10.2",2015-08-05 00:00:00
+"Selangor","Hulu Langat","Hulu Langat",3.1593,101.8911,1274,"MY-10","MY-10.2",2015-08-06 00:00:00
+"Selangor","Hulu Langat","Hulu Langat",3.1284,101.8279,5096,"MY-10","MY-10.2",2015-08-07 00:00:00
+"Selangor","Hulu Langat","Hulu Langat",3.0904,101.7935,2701,"MY-10","MY-10.2",2015-08-08 00:00:00
+"Selangor","Hulu Langat","Hulu Langat",3.1355,101.8349,4255,"MY-10","MY-10.2",2015-08-09 00:00:00
+"Selangor","Hulu Selangor","Kuala Kubu Baru",3.5617,101.6572,5256,"MY-10","MY-10.3",2015-08-10 00:00:00
+"Selangor","Hulu Selangor","Kuala Kubu Baru",3.5621,101.6588,6697,"MY-10","MY-10.3",2015-08-11 00:00:00
+"Selangor","Hulu Selangor","Kuala Kubu Baru",3.5635,101.6607,6424,"MY-10","MY-10.3",2015-08-12 00:00:00
+"Selangor","Hulu Selangor","Kuala Kubu Baru",3.5628,101.656,4760,"MY-10","MY-10.3",2015-08-13 00:00:00
+"Selangor","Hulu Selangor","Kuala Kubu Baru",3.5736,101.6729,8633,"MY-10","MY-10.3",2015-08-14 00:00:00
+"Selangor","Klang","Klang",3.0239,101.4591,2329,"MY-10","MY-10.4",2015-08-15 00:00:00
+"Selangor","Klang","Klang",3.0426,101.4208,2350,"MY-10","MY-10.4",2015-08-16 00:00:00
+"Selangor","Klang","Klang",3.0534,101.4678,8152,"MY-10","MY-10.4",2015-08-17 00:00:00
+"Selangor","Klang","Klang",3.0693,101.4247,4589,"MY-10","MY-10.4",2015-08-18 00:00:00
+"Selangor","Klang","Klang",3.0453,101.4449,6073,"MY-10","MY-10.4",2015-08-19 00:00:00
+"Selangor","Kuala Langat","Banting",2.8002,101.501,6145,"MY-10","MY-10.5",2015-08-20 00:00:00
+"Selangor","Kuala Langat","Banting",2.8866,101.5449,8467,"MY-10","MY-10.5",2015-08-21 00:00:00
+"Selangor","Kuala Langat","Banting",2.936,101.4941,8484,"MY-10","MY-10.5",2015-08-22 00:00:00
+"Selangor","Kuala Langat","Banting",2.877,101.3142,6608,"MY-10","MY-10.5",2015-08-23 00:00:00
+"Selangor","Kuala Langat","Banting",2.815,101.5061,7539,"MY-10","MY-10.5",2015-08-24 00:00:00
+"Selangor","Kuala Selangor","Kuala Selangor",3.3494,101.2847,6420,"MY-10","MY-10.6",2015-08-25 00:00:00
+"Selangor","Kuala Selangor","Kuala Selangor",3.3574,101.3154,4122,"MY-10","MY-10.6",2015-08-26 00:00:00
+"Selangor","Kuala Selangor","Kuala Selangor",3.3355,101.2976,4555,"MY-10","MY-10.6",2015-08-27 00:00:00
+"Selangor","Kuala Selangor","Kuala Selangor",3.3884,101.2557,2675,"MY-10","MY-10.6",2015-08-28 00:00:00
+"Selangor","Kuala Selangor","Kuala Selangor",3.3322,101.2501,2508,"MY-10","MY-10.6",2015-08-29 00:00:00
+"Selangor","Petaling","Shah Alam",3.1061,101.56,8782,"MY-10","MY-10.7",2015-08-30 00:00:00
+"Selangor","Petaling","Shah Alam",3.1349,101.5051,2636,"MY-10","MY-10.7",2015-08-31 00:00:00
+"Selangor","Petaling","Shah Alam",3.0046,101.5669,3119,"MY-10","MY-10.7",2015-09-01 00:00:00
+"Selangor","Petaling","Shah Alam",3.1198,101.6369,2719,"MY-10","MY-10.7",2015-09-02 00:00:00
+"Selangor","Petaling","Shah Alam",3.0584,101.4939,7867,"MY-10","MY-10.7",2015-09-03 00:00:00
+"Selangor","Petaling","Shah Alam",3.047,101.543,5478,"MY-10","MY-10.7",2015-09-04 00:00:00
+"Selangor","Petaling","Shah Alam",3.092206,101.4864,1529,"MY-10","MY-10.7",2015-09-05 00:00:00
+"Selangor","Petaling","Shah Alam",3.1064,101.515,5883,"MY-10","MY-10.7",2015-09-06 00:00:00
+"Selangor","Petaling","Shah Alam",3.0415,101.521,1281,"MY-10","MY-10.7",2015-09-07 00:00:00
+"Selangor","Petaling","Sg Buloh",3.1979,101.5406,3946,"MY-10","MY-10.7",2015-09-08 00:00:00
+"Selangor","Petaling","Sg Buloh",3.1973,101.579,1602,"MY-10","MY-10.7",2015-09-09 00:00:00
+"Selangor","Petaling","Sg Buloh",3.1733,101.5449,5333,"MY-10","MY-10.7",2015-09-10 00:00:00
+"Selangor","Petaling","Sg Buloh",3.231,101.552,7615,"MY-10","MY-10.7",2015-09-11 00:00:00
+"Selangor","Petaling","Sg Buloh",3.205,101.499,6747,"MY-10","MY-10.7",2015-09-12 00:00:00
+"Selangor","Petaling","Damansara",3.1419,101.575,4399,"MY-10","MY-10.7",2015-09-13 00:00:00
+"Selangor","Petaling","Damansara",3.1217,101.612,6677,"MY-10","MY-10.7",2015-09-14 00:00:00
+"Selangor","Petaling","Damansara",3.1604,101.599,5248,"MY-10","MY-10.7",2015-09-15 00:00:00
+"Selangor","Petaling","Damansara",3.1229,101.556,6172,"MY-10","MY-10.7",2015-09-16 00:00:00
+"Selangor","Petaling","Damansara",3.158,101.6033,1172,"MY-10","MY-10.7",2015-09-17 00:00:00
+"Selangor","Sepang","Sepang",2.8062,101.7149,1048,"MY-10","MY-10.9",2015-09-18 00:00:00
+"Selangor","Sepang","Sepang",2.7664,101.7417,8912,"MY-10","MY-10.9",2015-09-19 00:00:00
+"Selangor","Sepang","Sepang",2.7047,101.7334,6113,"MY-10","MY-10.9",2015-09-20 00:00:00
+"Selangor","Sepang","Sepang",2.8295,101.7163,8552,"MY-10","MY-10.9",2015-09-21 00:00:00
+"Selangor","Sepang","Sepang",2.6884,101.7502,5200,"MY-10","MY-10.9",2015-09-22 00:00:00
+"Selangor","Sabak Bernam","Sabak Bernam",3.5526,101.163,8749,"MY-10","MY-10.8",2015-09-23 00:00:00
+"Selangor","Sabak Bernam","Sabak Bernam",3.7801,101.0219,6664,"MY-10","MY-10.8",2015-09-24 00:00:00
+"Selangor","Sabak Bernam","Sabak Bernam",3.7112,101.0016,8418,"MY-10","MY-10.8",2015-09-25 00:00:00
+"Selangor","Sabak Bernam","Sabak Bernam",3.6468,101.299,8490,"MY-10","MY-10.8",2015-09-26 00:00:00
+"Selangor","Sabak Bernam","Sabak Bernam",3.7626,100.9878,8570,"MY-10","MY-10.8",2015-09-27 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.927,102.1048,4215,"MY-05","MY-05.1",2015-09-28 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.9702,102.1886,8018,"MY-05","MY-05.1",2015-09-29 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.8619,102.0959,2420,"MY-05","MY-05.1",2015-09-30 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.9538,102.0413,5115,"MY-05","MY-05.1",2015-10-01 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.9652,102.1087,5848,"MY-05","MY-05.1",2015-10-02 00:00:00
+"N.Sembilan","Jelebu","Kuala Klawang",2.9505,102.0854,3426,"MY-05","MY-05.1",2015-10-03 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.8037,102.4204,4927,"MY-05","MY-05.2",2015-10-04 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.7784,102.3903,8880,"MY-05","MY-05.2",2015-10-05 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.8482,102.375,3667,"MY-05","MY-05.2",2015-10-06 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.8215,102.4428,1988,"MY-05","MY-05.2",2015-10-07 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.8097,102.402,5672,"MY-05","MY-05.2",2015-10-08 00:00:00
+"N.Sembilan","Jempol","Bahau / Jempol",2.8075,102.4002,7180,"MY-05","MY-05.2",2015-10-09 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.6997,102.2345,7828,"MY-05","MY-05.3",2015-10-10 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.7302,102.298,8323,"MY-05","MY-05.3",2015-10-11 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.7662,102.2311,4766,"MY-05","MY-05.3",2015-10-12 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.8242,102.2675,6438,"MY-05","MY-05.3",2015-10-13 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.741,102.2438,3418,"MY-05","MY-05.3",2015-10-14 00:00:00
+"N.Sembilan","Kuala Pilah","Kuala Pilah",2.7454,102.2468,2235,"MY-05","MY-05.3",2015-10-15 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.5887,101.8439,5349,"MY-05","MY-05.4",2015-10-16 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.5315,101.8406,7489,"MY-05","MY-05.4",2015-10-17 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.6315,101.7863,7282,"MY-05","MY-05.4",2015-10-18 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.4683,101.866,4884,"MY-05","MY-05.4",2015-10-19 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.571,101.8306,1463,"MY-05","MY-05.4",2015-10-20 00:00:00
+"N.Sembilan","Port Dickson","Lukut",2.5602,101.8128,4309,"MY-05","MY-05.4",2015-10-21 00:00:00
+"N.Sembilan","Rembau","Rembau",2.5854,102.1607,7123,"MY-05","MY-05.5",2015-10-22 00:00:00
+"N.Sembilan","Rembau","Rembau",2.5504,102.0763,6914,"MY-05","MY-05.5",2015-10-23 00:00:00
+"N.Sembilan","Rembau","Rembau",2.6018,102.1113,8566,"MY-05","MY-05.5",2015-10-24 00:00:00
+"N.Sembilan","Rembau","Rembau",2.5127,102.0687,8271,"MY-05","MY-05.5",2015-10-25 00:00:00
+"N.Sembilan","Rembau","Rembau",2.5905,102.0933,8924,"MY-05","MY-05.5",2015-10-26 00:00:00
+"N.Sembilan","Rembau","Rembau",2.592,102.0989,6272,"MY-05","MY-05.5",2015-10-27 00:00:00
+"N.Sembilan","Seremban","Seremban",2.6966,102.0411,6894,"MY-05","MY-05.6",2015-10-28 00:00:00
+"N.Sembilan","Seremban","Seremban",2.6994,101.9127,5805,"MY-05","MY-05.6",2015-10-29 00:00:00
+"N.Sembilan","Seremban","Seremban",2.6434,102.0161,8760,"MY-05","MY-05.6",2015-10-30 00:00:00
+"N.Sembilan","Seremban","Seremban",2.7529,101.9773,4792,"MY-05","MY-05.6",2015-10-31 00:00:00
+"N.Sembilan","Seremban","Seremban",2.7226,101.9415,5664,"MY-05","MY-05.6",2015-11-01 00:00:00
+"N.Sembilan","Seremban","Seremban",2.7201,101.9409,5139,"MY-05","MY-05.6",2015-11-02 00:00:00
+"N.Sembilan","Tampin","Tampin",2.472,102.2541,8857,"MY-05","MY-05.7",2015-11-03 00:00:00
+"N.Sembilan","Tampin","Tampin",2.4974,102.2743,2369,"MY-05","MY-05.7",2015-11-04 00:00:00
+"N.Sembilan","Tampin","Tampin",2.5073,102.2273,1794,"MY-05","MY-05.7",2015-11-05 00:00:00
+"N.Sembilan","Tampin","Tampin",2.5257,102.2376,3368,"MY-05","MY-05.7",2015-11-06 00:00:00
+"N.Sembilan","Tampin","Tampin",2.4682,102.2305,3003,"MY-05","MY-05.7",2015-11-07 00:00:00
+"N.Sembilan","Tampin","Tampin",2.4693,102.221,4580,"MY-05","MY-05.7",2015-11-08 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.4007,102.2874,4914,"MY-04","MY-04.1",2015-11-09 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.4473,102.2201,2992,"MY-04","MY-04.1",2015-11-10 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.3876,102.2915,4442,"MY-04","MY-04.1",2015-11-11 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.4624,102.2023,3778,"MY-04","MY-04.1",2015-11-12 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.3819,102.2102,8911,"MY-04","MY-04.1",2015-11-13 00:00:00
+"Melaka","Alor Gajah","Alor Gajah",2.3782,102.2088,2668,"MY-04","MY-04.1",2015-11-14 00:00:00
+"Melaka","Jasin","Jasin",2.2546,102.4441,3627,"MY-04","MY-04.2",2015-11-15 00:00:00
+"Melaka","Jasin","Jasin",2.3191,102.3501,8135,"MY-04","MY-04.2",2015-11-16 00:00:00
+"Melaka","Jasin","Jasin",2.315,102.4517,2616,"MY-04","MY-04.2",2015-11-17 00:00:00
+"Melaka","Jasin","Jasin",2.3253,102.3707,3489,"MY-04","MY-04.2",2015-11-18 00:00:00
+"Melaka","Jasin","Jasin",2.3055,102.4225,3183,"MY-04","MY-04.2",2015-11-19 00:00:00
+"Melaka","Jasin","Jasin",2.3057,102.4229,8355,"MY-04","MY-04.2",2015-11-20 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.2543,102.211,2789,"MY-04","MY-04.3",2015-11-21 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.2632,102.2879,4523,"MY-04","MY-04.3",2015-11-22 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.1946,102.3154,2331,"MY-04","MY-04.3",2015-11-23 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.2817,102.1684,8422,"MY-04","MY-04.3",2015-11-24 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.2718,102.286,6753,"MY-04","MY-04.3",2015-11-25 00:00:00
+"Melaka","Melaka Tengah","Melaka Tengah",2.2573,102.2788,4954,"MY-04","MY-04.3",2015-11-26 00:00:00
+"Pahang","Bentong","Bentong",3.5665,101.972,1768,"MY-06","MY-06.1",2015-11-27 00:00:00
+"Pahang","Bentong","Bentong",3.3636,101.983,8553,"MY-06","MY-06.1",2015-11-28 00:00:00
+"Pahang","Bentong","Bentong",3.2101,102.1643,7206,"MY-06","MY-06.1",2015-11-29 00:00:00
+"Pahang","Bentong","Bentong",3.2841,102.222,8807,"MY-06","MY-06.1",2015-11-30 00:00:00
+"Pahang","Bentong","Bentong",3.5253,101.9043,6901,"MY-06","MY-06.1",2015-12-01 00:00:00
+"Pahang","Bentong","Bentong",3.5269,101.9068,1669,"MY-06","MY-06.1",2015-12-02 00:00:00
+"Pahang","Bera","Bandar Bera",3.1845,102.4674,7189,"MY-06","MY-06.2",2015-12-03 00:00:00
+"Pahang","Bera","Bandar Bera",3.0255,102.6762,2968,"MY-06","MY-06.2",2015-12-04 00:00:00
+"Pahang","Bera","Bandar Bera",3.2229,102.3686,5037,"MY-06","MY-06.2",2015-12-05 00:00:00
+"Pahang","Bera","Bandar Bera",3.3655,102.5691,5114,"MY-06","MY-06.2",2015-12-06 00:00:00
+"Pahang","Bera","Bandar Bera",3.2715,102.4524,8476,"MY-06","MY-06.2",2015-12-07 00:00:00
+"Pahang","Bera","Bandar Bera",3.2453,102.413,6583,"MY-06","MY-06.2",2015-12-08 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.4943,101.4454,4222,"MY-06","MY-06.3",2015-12-09 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.4163,101.4736,5792,"MY-06","MY-06.3",2015-12-10 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.482,101.5574,3281,"MY-06","MY-06.3",2015-12-11 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.5207,101.3981,4438,"MY-06","MY-06.3",2015-12-12 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.4676,101.3892,2188,"MY-06","MY-06.3",2015-12-13 00:00:00
+"Pahang","Cameron Highlands","Tanah Rata",4.4888,101.3765,4452,"MY-06","MY-06.3",2015-12-14 00:00:00
+"Pahang","Jerantut","Jerantut",3.9943,102.4137,6480,"MY-06","MY-06.4",2015-12-15 00:00:00
+"Pahang","Jerantut","Jerantut",4.0135,102.2146,6016,"MY-06","MY-06.4",2015-12-16 00:00:00
+"Pahang","Jerantut","Jerantut",3.8559,102.3629,1348,"MY-06","MY-06.4",2015-12-17 00:00:00
+"Pahang","Jerantut","Kuala Tahan",4.317,102.44,2077,"MY-06","MY-06.4",2015-12-18 00:00:00
+"Pahang","Jerantut","Kuala Tahan",4.3132,102.376,2495,"MY-06","MY-06.4",2015-12-19 00:00:00
+"Pahang","Jerantut","Kuala Tahan",4.356,102.4183,3452,"MY-06","MY-06.4",2015-12-20 00:00:00
+"Pahang","Jerantut","Kuala Tahan",4.3432,102.378,3983,"MY-06","MY-06.4",2015-12-21 00:00:00
+"Pahang","Jerantut","Kuala Tahan",4.4032,102.379,5150,"MY-06","MY-06.4",2015-12-22 00:00:00
+"Pahang","Jerantut","Jerantut",3.9806,102.5263,1793,"MY-06","MY-06.4",2015-12-23 00:00:00
+"Pahang","Jerantut","Jerantut",3.9382,102.3605,1022,"MY-06","MY-06.4",2015-12-24 00:00:00
+"Pahang","Jerantut","Jerantut",3.9315,102.3622,3634,"MY-06","MY-06.4",2015-12-25 00:00:00
+"Pahang","Kuantan","Kuantan",3.8688,103.168,2056,"MY-06","MY-06.5",2015-12-26 00:00:00
+"Pahang","Kuantan","Kuantan",3.803,103.2339,8221,"MY-06","MY-06.5",2015-12-27 00:00:00
+"Pahang","Kuantan","Kuantan",3.729,103.2477,2794,"MY-06","MY-06.5",2015-12-28 00:00:00
+"Pahang","Kuantan","Kuantan",3.8318,103.3122,6395,"MY-06","MY-06.5",2015-12-29 00:00:00
+"Pahang","Kuantan","Kuantan",3.793,103.1659,5596,"MY-06","MY-06.5",2015-12-30 00:00:00
+"Pahang","Kuantan","Kuantan",3.7831,103.2358,8044,"MY-06","MY-06.5",2015-12-31 00:00:00
+"Pahang","Lipis","Lipis",4.2476,102.0838,1833,"MY-06","MY-06.5",2015-01-01 00:00:00
+"Pahang","Lipis","Lipis",4.0969,102.1964,2959,"MY-06","MY-06.6",2015-01-02 00:00:00
+"Pahang","Lipis","Lipis",4.2421,101.7062,7046,"MY-06","MY-06.6",2015-01-03 00:00:00
+"Pahang","Lipis","Lipis",4.4365,101.9135,2519,"MY-06","MY-06.6",2015-01-04 00:00:00
+"Pahang","Lipis","Lipis",4.182,102.0532,3062,"MY-06","MY-06.6",2015-01-05 00:00:00
+"Pahang","Lipis","Lipis",4.1735,102.0437,3255,"MY-06","MY-06.6",2015-01-06 00:00:00
+"Pahang","Maran","Maran",3.5411,102.7734,4336,"MY-06","MY-06.7",2015-01-07 00:00:00
+"Pahang","Maran","Maran",3.6595,102.8808,2282,"MY-06","MY-06.7",2015-01-08 00:00:00
+"Pahang","Maran","Maran",3.5217,102.6906,1269,"MY-06","MY-06.7",2015-01-09 00:00:00
+"Pahang","Maran","Maran",3.5149,102.8307,2694,"MY-06","MY-06.7",2015-01-10 00:00:00
+"Pahang","Maran","Maran",3.5838,102.7836,3675,"MY-06","MY-06.7",2015-01-11 00:00:00
+"Pahang","Maran","Maran",3.582,102.7724,3020,"MY-06","MY-06.7",2015-01-12 00:00:00
+"Pahang","Pekan","Pekan",3.1067,103.4038,7010,"MY-06","MY-06.8",2015-01-13 00:00:00
+"Pahang","Pekan","Pekan",3.2184,103.4196,7140,"MY-06","MY-06.8",2015-01-14 00:00:00
+"Pahang","Pekan","Pekan",3.4878,103.3633,5927,"MY-06","MY-06.8",2015-01-15 00:00:00
+"Pahang","Pekan","Pekan",3.5879,103.3496,1484,"MY-06","MY-06.8",2015-01-16 00:00:00
+"Pahang","Pekan","Pekan",3.4892,103.3898,5857,"MY-06","MY-06.8",2015-01-17 00:00:00
+"Pahang","Pekan","Pekan",3.5022,103.3817,5623,"MY-06","MY-06.8",2015-01-18 00:00:00
+"Pahang","Raub","Raub",3.9023,101.8093,4850,"MY-06","MY-06.9",2015-01-19 00:00:00
+"Pahang","Raub","Raub",3.8571,101.9041,1878,"MY-06","MY-06.9",2015-01-20 00:00:00
+"Pahang","Raub","Raub",3.7269,101.8313,3627,"MY-06","MY-06.9",2015-01-21 00:00:00
+"Pahang","Raub","Raub",4.0502,101.775,6732,"MY-06","MY-06.9",2015-01-22 00:00:00
+"Pahang","Raub","Raub",3.7956,101.8555,1343,"MY-06","MY-06.9",2015-01-23 00:00:00
+"Pahang","Raub","Raub",3.808,101.8472,6564,"MY-06","MY-06.9",2015-01-24 00:00:00
+"Pahang","Rompin","Rompin",2.7158,103.5037,5153,"MY-06","MY-06.10",2015-01-25 00:00:00
+"Pahang","Rompin","Rompin",2.7497,103.055,3201,"MY-06","MY-06.10",2015-01-26 00:00:00
+"Pahang","Rompin","Rompin",3.1474,102.849,1020,"MY-06","MY-06.10",2015-01-27 00:00:00
+"Pahang","Rompin","Rompin",2.618,103.6015,5732,"MY-06","MY-06.10",2015-01-28 00:00:00
+"Pahang","Rompin","Rompin",2.7085,102.5053,4925,"MY-06","MY-06.10",2015-01-29 00:00:00
+"Pahang","Rompin","Tun Razak",2.968676,103.005104,7987,"MY-06","MY-06.10",2015-01-30 00:00:00
+"Pahang","Rompin","Tun Razak",2.892305,103.008745,3958,"MY-06","MY-06.10",2015-01-31 00:00:00
+"Pahang","Rompin","Rompin",2.869033,103.2351,8099,"MY-06","MY-06.10",2015-02-01 00:00:00
+"Pahang","Rompin","Rompin",2.884386,103.267,5260,"MY-06","MY-06.10",2015-02-02 00:00:00
+"Pahang","Rompin","Rompin",2.8807,103.219,2967,"MY-06","MY-06.10",2015-02-03 00:00:00
+"Pahang","Rompin","Rompin",2.91805,103.226541,4199,"MY-06","MY-06.10",2015-02-04 00:00:00
+"Pahang","Rompin","Tun Razak",3.0028,102.928633,7845,"MY-06","MY-06.10",2015-02-05 00:00:00
+"Pahang","Rompin","Tun Razak",3.0104,103.0136,2404,"MY-06","MY-06.10",2015-02-06 00:00:00
+"Pahang","Rompin","Rompin",2.6946,102.5257,5230,"MY-06","MY-06.10",2015-02-07 00:00:00
+"Pahang","Temerloh","Temerloh",3.4409,102.4912,8891,"MY-06","MY-06.11",2015-02-08 00:00:00
+"Pahang","Temerloh","Temerloh",3.3829,102.4452,4772,"MY-06","MY-06.11",2015-02-09 00:00:00
+"Pahang","Temerloh","Temerloh",3.4487,102.3947,4948,"MY-06","MY-06.11",2015-02-10 00:00:00
+"Pahang","Temerloh","Temerloh",3.5413,102.4407,2014,"MY-06","MY-06.11",2015-02-11 00:00:00
+"Pahang","Temerloh","Temerloh",3.4475,102.4189,5969,"MY-06","MY-06.11",2015-02-12 00:00:00
+"Pahang","Temerloh","Temerloh",3.4508,102.4188,6504,"MY-06","MY-06.11",2015-02-13 00:00:00
+"Pahang","Temerloh","Temerloh",3.4475,102.4189,7776,"MY-06","MY-06.11",2015-02-14 00:00:00
+"Terengganu","Besut","Jerteh",5.6143,102.5593,4988,"MY-11","MY-11.1",2015-02-15 00:00:00
+"Terengganu","Besut","Jerteh",5.6935,102.5263,5699,"MY-11","MY-11.1",2015-02-16 00:00:00
+"Terengganu","Besut","Jerteh",5.7455,102.5593,1448,"MY-11","MY-11.1",2015-02-17 00:00:00
+"Terengganu","Besut","Jerteh",5.5897,102.5785,8714,"MY-11","MY-11.1",2015-02-18 00:00:00
+"Terengganu","Dungun","Dungun",4.7962,103.368,1100,"MY-11","MY-11.2",2015-02-19 00:00:00
+"Terengganu","Dungun","Dungun",4.73333,103.403,6962,"MY-11","MY-11.2",2015-02-20 00:00:00
+"Terengganu","Dungun","Dungun",4.7189,103.3481,7590,"MY-11","MY-11.2",2015-02-21 00:00:00
+"Terengganu","Dungun","Dungun",4.8024,103.2513,5000,"MY-11","MY-11.2",2015-02-22 00:00:00
+"Terengganu","Hulu Terengganu","Kuala Berang",5.1014,102.8963,1269,"MY-11","MY-11.3",2015-02-23 00:00:00
+"Terengganu","Hulu Terengganu","Kuala Berang",5.152,102.9704,6140,"MY-11","MY-11.3",2015-02-24 00:00:00
+"Terengganu","Hulu Terengganu","Kuala Berang",5.1766,102.829,2520,"MY-11","MY-11.3",2015-02-25 00:00:00
+"Terengganu","Hulu Terengganu","Kuala Berang",5.2655,102.8949,1127,"MY-11","MY-11.3",2015-02-26 00:00:00
+"Terengganu","Kemaman","Chukai",4.2366,103.3029,2471,"MY-11","MY-11.4",2015-02-27 00:00:00
+"Terengganu","Kemaman","Chukai",4.3749,103.329,8391,"MY-11","MY-11.4",2015-02-28 00:00:00
+"Terengganu","Kemaman","Chukai",4.2846,103.3475,6013,"MY-11","MY-11.4",2015-03-01 00:00:00
+"Terengganu","Kemaman","Chukai",4.1729,103.2603,3182,"MY-11","MY-11.4",2015-03-02 00:00:00
+"Terengganu","Kuala Terengganu","Kuala Terengganu",5.237,102.9944,4841,"MY-11","MY-11.5",2015-03-07 00:00:00
+"Terengganu","Kuala Terengganu","Kuala Terengganu",5.4065,103.0342,6051,"MY-11","MY-11.5",2015-03-08 00:00:00
+"Terengganu","Kuala Terengganu","Kuala Terengganu",5.2849,103.1386,4749,"MY-11","MY-11.5",2015-03-09 00:00:00
+"Terengganu","Kuala Terengganu","Kuala Terengganu",5.1878,103.0466,3076,"MY-11","MY-11.5",2015-03-10 00:00:00
+"Terengganu","Marang","Marang",5.1419,103.1551,6426,"MY-11","MY-11.6",2015-03-11 00:00:00
+"Terengganu","Marang","Marang",5.0941,103.2238,6705,"MY-11","MY-11.6",2015-03-12 00:00:00
+"Terengganu","Marang","Marang",4.9545,103.2568,4435,"MY-11","MY-11.6",2015-03-13 00:00:00
+"Terengganu","Marang","Marang",4.949,103.335,7553,"MY-11","MY-11.6",2015-03-14 00:00:00
+"Terengganu","Setiu","Bandar Permaisuri",5.5172,102.7597,8261,"MY-11","MY-11.7",2015-03-15 00:00:00
+"Terengganu","Setiu","Bandar Permaisuri",5.4687,102.8494,3388,"MY-11","MY-11.7",2015-03-16 00:00:00
+"Terengganu","Setiu","Bandar Permaisuri",5.4445,102.835,4266,"MY-11","MY-11.7",2015-03-17 00:00:00
+"Terengganu","Setiu","Bandar Permaisuri",5.5305,102.7558,2815,"MY-11","MY-11.7",2015-03-18 00:00:00
+"Kelantan","Bachok","Bachok",6.0291,102.399,7054,"MY-03","MY-03.1",2015-03-19 00:00:00
+"Kelantan","Bachok","Bachok",5.9643,102.432,4274,"MY-03","MY-03.1",2015-03-20 00:00:00
+"Kelantan","Bachok","Bachok",5.9253,102.4292,3292,"MY-03","MY-03.1",2015-03-21 00:00:00
+"Kelantan","Bachok","Bachok",5.9745,102.3956,8224,"MY-03","MY-03.1",2015-03-22 00:00:00
+"Kelantan","Gua Musang","Gua Musang",4.8685,101.9528,4152,"MY-03","MY-03.2",2015-03-23 00:00:00
+"Kelantan","Gua Musang","Gua Musang",4.939,101.9624,7397,"MY-03","MY-03.2",2015-03-24 00:00:00
+"Kelantan","Gua Musang","Gua Musang",4.8049,102.0139,4814,"MY-03","MY-03.2",2015-03-25 00:00:00
+"Kelantan","Gua Musang","Gua Musang",4.8364,101.8697,4154,"MY-03","MY-03.2",2015-03-26 00:00:00
+"Kelantan","Jeli","Jeli",5.7054,101.8576,2171,"MY-03","MY-03.3",2015-03-27 00:00:00
+"Kelantan","Jeli","Jeli",5.6217,101.8482,6790,"MY-03","MY-03.3",2015-03-28 00:00:00
+"Kelantan","Jeli","Jeli",5.5684,101.8977,3145,"MY-03","MY-03.3",2015-03-29 00:00:00
+"Kelantan","Jeli","Jeli",5.716,101.8345,6935,"MY-03","MY-03.3",2015-03-30 00:00:00
+"Kelantan","Kota Bharu","Kota Bharu",6.1383,102.3051,1864,"MY-03","MY-03.4",2015-03-31 00:00:00
+"Kelantan","Kota Bharu","Kota Bharu",6.0591,102.3305,8161,"MY-03","MY-03.4",2015-04-01 00:00:00
+"Kelantan","Kota Bharu","Kota Bharu",6.0984,102.3834,7969,"MY-03","MY-03.4",2015-04-02 00:00:00
+"Kelantan","Kota Bharu","Kota Bharu",6.099,102.2529,3000,"MY-03","MY-03.4",2015-04-03 00:00:00
+"Kelantan","Kuala Krai","Kuala Krai",5.4841,102.2662,6104,"MY-03","MY-03.5",2015-04-04 00:00:00
+"Kelantan","Kuala Krai","Kuala Krai",5.4253,102.3198,6764,"MY-03","MY-03.5",2015-04-05 00:00:00
+"Kelantan","Kuala Krai","Kuala Krai",5.6262,102.1598,3129,"MY-03","MY-03.5",2015-04-06 00:00:00
+"Kelantan","Kuala Krai","Kuala Krai",5.594,102.2736,5609,"MY-03","MY-03.5",2015-04-07 00:00:00
+"Kelantan","Machang","Machang",5.7593,102.25,7724,"MY-03","MY-03.6",2015-04-12 00:00:00
+"Kelantan","Machang","Machang",5.8129,102.2596,7182,"MY-03","MY-03.6",2015-04-13 00:00:00
+"Kelantan","Machang","Machang",5.7644,102.182,3747,"MY-03","MY-03.6",2015-04-14 00:00:00
+"Kelantan","Machang","Machang",5.7436,102.2418,7548,"MY-03","MY-03.6",2015-04-15 00:00:00
+"Kelantan","Pasir Mas","Pasir Mas",6.0174,102.1169,5488,"MY-03","MY-03.7",2015-04-16 00:00:00
+"Kelantan","Pasir Mas","Pasir Mas",5.9573,102.1924,1586,"MY-03","MY-03.7",2015-04-17 00:00:00
+"Kelantan","Pasir Mas","Pasir Mas",5.93,102.0853,1831,"MY-03","MY-03.7",2015-04-18 00:00:00
+"Kelantan","Pasir Mas","Pasir Mas",6.0953,102.1017,6853,"MY-03","MY-03.7",2015-04-19 00:00:00
+"Kelantan","Pasir Puteh","Pasir Puteh",5.8006,102.4117,4814,"MY-03","MY-03.8",2015-04-20 00:00:00
+"Kelantan","Pasir Puteh","Pasir Puteh",5.8881,102.3897,4147,"MY-03","MY-03.8",2015-04-21 00:00:00
+"Kelantan","Pasir Puteh","Pasir Puteh",5.8963,102.4556,3920,"MY-03","MY-03.8",2015-04-22 00:00:00
+"Kelantan","Pasir Puteh","Pasir Puteh",5.7806,102.3521,7715,"MY-03","MY-03.8",2015-04-23 00:00:00
+"Kelantan","Tanah Merah","Tanah Merah",5.8106,102.089,6840,"MY-03","MY-03.9",2015-04-24 00:00:00
+"Kelantan","Tanah Merah","Tanah Merah",5.8946,102.0993,4105,"MY-03","MY-03.9",2015-04-25 00:00:00
+"Kelantan","Tanah Merah","Tanah Merah",5.7627,102.1096,7093,"MY-03","MY-03.9",2015-04-26 00:00:00
+"Kelantan","Tanah Merah","Tanah Merah",5.844,101.9557,2567,"MY-03","MY-03.9",2015-04-27 00:00:00
+"Kelantan","Tumpat","Tumpat",6.2273,102.0956,7234,"MY-03","MY-03.10",2015-04-28 00:00:00
+"Kelantan","Tumpat","Tumpat",6.1453,102.1526,6478,"MY-03","MY-03.10",2015-04-29 00:00:00
+"Kelantan","Tumpat","Tumpat",6.1781,102.2227,1045,"MY-03","MY-03.10",2015-04-30 00:00:00
+"Kelantan","Tumpat","Tumpat",6.2081,102.1114,7125,"MY-03","MY-03.10",2015-05-01 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.9544,102.855,2508,"MY-01","MY-01.1",2015-05-02 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.8391,103.1269,1663,"MY-01","MY-01.1",2015-05-03 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.8659,103.1578,3019,"MY-01","MY-01.1",2015-05-04 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.919,102.92,8376,"MY-01","MY-01.1",2015-05-05 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.862,103.092,8701,"MY-01","MY-01.1",2015-05-06 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.741,103.044,8553,"MY-01","MY-01.1",2015-05-07 00:00:00
+"Johor","Batu Pahat","Batu Pahat",1.853,102.936,7779,"MY-01","MY-01.1",2015-05-08 00:00:00
+"Johor","Johor Bahru","Johor Bahru",1.4975,103.6163,3744,"MY-01","MY-01.2",2015-05-09 00:00:00
+"Johor","Johor Bahru","Johor Bahru",1.5187,103.7571,3905,"MY-01","MY-01.2",2015-05-10 00:00:00
+"Johor","Johor Bahru","Johor Bahru",1.5675,103.77166,3042,"MY-01","MY-01.2",2015-05-11 00:00:00
+"Johor","Johor Bahru","Johor Bahru",1.4645,103.7447,1165,"MY-01","MY-01.2",2015-05-12 00:00:00
+"Johor","Kluang","Kluang",1.9862,103.3282,7094,"MY-01","MY-01.3",2015-05-13 00:00:00
+"Johor","Kluang","Kluang",2.0696,103.344,3772,"MY-01","MY-01.3",2015-05-14 00:00:00
+"Johor","Kluang","Kluang",2.0248,103.3218,6520,"MY-01","MY-01.3",2015-05-15 00:00:00
+"Johor","Kluang","Kluang",2.043,103.3203,6056,"MY-01","MY-01.3",2015-05-16 00:00:00
+"Johor","Kluang","Kluang",1.9943,103.264,7070,"MY-01","MY-01.3",2015-05-17 00:00:00
+"Johor","Kluang","Kluang",1.99,103.362,4344,"MY-01","MY-01.3",2015-05-18 00:00:00
+"Johor","Kluang","Kluang",2.104,103.454,4897,"MY-01","MY-01.3",2015-05-19 00:00:00
+"Johor","Kota Tinggi","Kota Tinggi",1.7148,103.8964,2391,"MY-01","MY-01.4",2015-05-20 00:00:00
+"Johor","Kota Tinggi","Kota Tinggi",1.7891,103.9102,7383,"MY-01","MY-01.4",2015-05-21 00:00:00
+"Johor","Kota Tinggi","Kota Tinggi",1.7568,103.8806,4967,"MY-01","MY-01.4",2015-05-22 00:00:00
+"Johor","Kota Tinggi","Kota Tinggi",1.7405,103.9107,3970,"MY-01","MY-01.4",2015-05-23 00:00:00
+"Johor","Kulai","Kulai",1.6484,103.6006,5635,"MY-01","MY-01.5",2015-05-24 00:00:00
+"Johor","Kulai","Kulai",1.6809,103.5848,2292,"MY-01","MY-01.5",2015-05-25 00:00:00
+"Johor","Kulai","Kulai",1.6331,103.6003,8740,"MY-01","MY-01.5",2015-05-26 00:00:00
+"Johor","Kulai","Kulai",1.6632,103.6013,4523,"MY-01","MY-01.5",2015-05-27 00:00:00
+"Johor","Tangkak","Tangkak",2.2693,102.5338,1065,"MY-01","MY-01.6",2015-05-28 00:00:00
+"Johor","Tangkak","Tangkak",2.2698,102.5325,8601,"MY-01","MY-01.6",2015-05-29 00:00:00
+"Johor","Tangkak","Tangkak",2.2715,102.5518,7159,"MY-01","MY-01.6",2015-05-30 00:00:00
+"Johor","Tangkak","Tangkak",2.2875,102.5507,4389,"MY-01","MY-01.6",2015-05-31 00:00:00
+"Johor","Mersing","Mersing",2.4299,103.8459,7097,"MY-01","MY-01.7",2015-06-01 00:00:00
+"Johor","Mersing","Mersing",2.4165,103.8315,6639,"MY-01","MY-01.7",2015-06-02 00:00:00
+"Johor","Mersing","Mersing",2.3945,103.8626,3572,"MY-01","MY-01.7",2015-06-03 00:00:00
+"Johor","Mersing","Mersing",2.4775,103.8173,7127,"MY-01","MY-01.7",2015-06-04 00:00:00
+"Johor","Muar","Muar",2.0708,102.578,8177,"MY-01","MY-01.8",2015-06-05 00:00:00
+"Johor","Muar","Muar",2.087,102.5867,5227,"MY-01","MY-01.8",2015-06-06 00:00:00
+"Johor","Muar","Muar",2.052,102.6144,4790,"MY-01","MY-01.8",2015-06-07 00:00:00
+"Johor","Muar","Muar",2.0389,102.5707,1550,"MY-01","MY-01.8",2015-06-08 00:00:00
+"Johor","Pontian","Pontian",1.4666,103.4566,5271,"MY-01","MY-01.9",2015-06-14 00:00:00
+"Johor","Pontian","Pontian",1.489,103.4822,1017,"MY-01","MY-01.9",2015-06-15 00:00:00
+"Johor","Pontian","Pontian",1.4873,103.5587,2055,"MY-01","MY-01.9",2015-06-16 00:00:00
+"Johor","Pontian","Pontian",1.5237,103.4241,3994,"MY-01","MY-01.9",2015-06-17 00:00:00
+"Johor","Segamat","Segamat",2.3814,102.9532,7249,"MY-01","MY-01.10",2015-06-18 00:00:00
+"Johor","Segamat","Segamat",2.6305,102.7172,1960,"MY-01","MY-01.10",2015-06-19 00:00:00
+"Johor","Segamat","Segamat",2.5314,102.7103,2677,"MY-01","MY-01.10",2015-06-20 00:00:00
+"Johor","Segamat","Segamat",2.6021,102.8366,3026,"MY-01","MY-01.10",2015-06-21 00:00:00
+"WP","Kuala Lumpur","Kuala Lumpur",3.1464,101.6996,5060,"MY-14","MY-14",2015-06-22 00:00:00
+"WP","Kuala Lumpur","Kuala Lumpur",3.156,101.7176,2435,"MY-14","MY-14",2015-06-23 00:00:00
+"WP","Kuala Lumpur","Kuala Lumpur",3.183,101.6755,2855,"MY-14","MY-14",2015-06-24 00:00:00
+"WP","Kuala Lumpur","Kuala Lumpur",3.117,101.6682,7387,"MY-14","MY-14",2015-06-25 00:00:00
+"WP","Putrajaya","Putrajaya",2.9229,101.7022,4658,"MY-16","MY-16",2015-06-26 00:00:00
+"WP","Putrajaya","Putrajaya",2.9335,101.6729,3212,"MY-16","MY-16",2015-06-27 00:00:00
+"WP","Putrajaya","Putrajaya",2.9673,101.6965,6594,"MY-16","MY-16",2015-06-28 00:00:00
+"WP","Putrajaya","Putrajaya",2.9083,101.6787,6348,"MY-16","MY-16",2015-06-29 00:00:00
+"WP","Labuan","Labuan",5.2829,115.2465,4336,"MY-15","MY-15",2015-06-30 00:00:00
+"WP","Labuan","Labuan",5.2891,115.1969,8339,"MY-15","MY-15",2015-07-01 00:00:00
+"WP","Labuan","Labuan",5.3318,115.2339,3009,"MY-15","MY-15",2015-07-02 00:00:00
+"WP","Labuan","Labuan",5.2937,115.2441,8979,"MY-15","MY-15",2015-07-03 00:00:00
+"Sabah","Beaufort","Beaufort",5.2785,115.7155,4249,"MY-12","MY-12.1",2015-07-04 00:00:00
+"Sabah","Beaufort","Beaufort",5.3988,115.8851,6228,"MY-12","MY-12.1",2015-07-05 00:00:00
+"Sabah","Beaufort","Beaufort",5.1752,115.6558,7330,"MY-12","MY-12.1",2015-07-06 00:00:00
+"Sabah","Beaufort","Beaufort",5.2901,115.7389,1000,"MY-12","MY-12.1",2015-07-07 00:00:00
+"Sabah","Beluran","Beluran",5.724,117.0953,5301,"MY-12","MY-12.2",2015-07-08 00:00:00
+"Sabah","Beluran","Beluran",5.7008,117.2422,3857,"MY-12","MY-12.2",2015-07-09 00:00:00
+"Sabah","Beluran","Beluran",5.8887,117.4215,6028,"MY-12","MY-12.2",2015-07-10 00:00:00
+"Sabah","Beluran","Beluran",5.7951,117.5306,8310,"MY-12","MY-12.2",2015-07-11 00:00:00
+"Sabah","Keningau","Keningau",5.375,116.1947,8596,"MY-12","MY-12.3",2015-07-12 00:00:00
+"Sabah","Keningau","Keningau",5.1316,116.1109,1977,"MY-12","MY-12.3",2015-07-13 00:00:00
+"Sabah","Keningau","Keningau",5.2027,116.3828,2496,"MY-12","MY-12.3",2015-07-14 00:00:00
+"Sabah","Keningau","Keningau",5.0837,116.2592,1544,"MY-12","MY-12.3",2015-07-15 00:00:00
+"Sabah","Kinabatangan","Kinabatangan",5.3412,116.9476,6995,"MY-12","MY-12.4",2015-07-16 00:00:00
+"Sabah","Kinabatangan","Kinabatangan",5.5654,117.354,5009,"MY-12","MY-12.4",2015-07-17 00:00:00
+"Sabah","Kinabatangan","Kinabatangan",5.4451,117.8265,7540,"MY-12","MY-12.4",2015-07-18 00:00:00
+"Sabah","Kinabatangan","Kinabatangan",5.4069,118.4307,5647,"MY-12","MY-12.4",2015-07-19 00:00:00
+"Sabah","Kota Belut","Kota Belut",6.3491,116.4742,1017,"MY-12","MY-12.5",2015-07-20 00:00:00
+"Sabah","Kota Belut","Kota Belut",6.4494,116.4619,1816,"MY-12","MY-12.5",2015-07-21 00:00:00
+"Sabah","Kota Belut","Kota Belut",6.3511,116.556,4984,"MY-12","MY-12.5",2015-07-22 00:00:00
+"Sabah","Kota Belut","Kota Belut",6.3825,116.4475,5127,"MY-12","MY-12.5",2015-07-23 00:00:00
+"Sabah","Kota Kinabalu","Kota Kinabalu",5.9587,116.0825,2444,"MY-12","MY-12.6",2015-07-24 00:00:00
+"Sabah","Kota Kinabalu","Kota Kinabalu",6.0257,116.1522,6208,"MY-12","MY-12.6",2015-07-25 00:00:00
+"Sabah","Kota Kinabalu","Kota Kinabalu",6.0998,116.179,2518,"MY-12","MY-12.6",2015-07-26 00:00:00
+"Sabah","Kota Kinabalu","Kota Kinabalu",6.0943,116.1429,4650,"MY-12","MY-12.6",2015-07-27 00:00:00
+"Sabah","Kota Marudu","Kota Marudu",6.7827,117.1405,5280,"MY-12","MY-12.7",2015-07-28 00:00:00
+"Sabah","Kota Marudu","Kota Marudu",6.4717,116.8329,7835,"MY-12","MY-12.7",2015-07-29 00:00:00
+"Sabah","Kota Marudu","Kota Marudu",6.6491,116.7299,4356,"MY-12","MY-12.7",2015-07-30 00:00:00
+"Sabah","Kota Marudu","Kota Marudu",6.6682,117.1927,1743,"MY-12","MY-12.7",2015-07-31 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.4317,115.4671,7173,"MY-12","MY-12.8",2015-08-01 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.4501,115.5368,3600,"MY-12","MY-12.8",2015-08-02 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.486,115.5889,8810,"MY-12","MY-12.8",2015-08-03 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.5414,115.5594,7871,"MY-12","MY-12.8",2015-08-04 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.5575,115.5686,8110,"MY-12","MY-12.8",2015-08-05 00:00:00
+"Sabah","Kuala Penyu","Kuala Penyu",5.5689,115.5961,1684,"MY-12","MY-12.8",2015-08-06 00:00:00
+"Sabah","Kudat","Kudat",6.7424,116.7502,1511,"MY-12","MY-12.9",2015-08-07 00:00:00
+"Sabah","Kudat","Kudat",6.9244,116.7097,7854,"MY-12","MY-12.9",2015-08-08 00:00:00
+"Sabah","Kudat","Kudat",6.7969,116.6665,7754,"MY-12","MY-12.9",2015-08-09 00:00:00
+"Sabah","Kudat","Kudat",6.8433,116.8251,3987,"MY-12","MY-12.9",2015-08-10 00:00:00
+"Sabah","Kudat","Kudat",6.8835,116.8499,3237,"MY-12","MY-12.9",2015-08-11 00:00:00
+"Sabah","Kudat","Kudat",6.9067,116.8405,2814,"MY-12","MY-12.9",2015-08-12 00:00:00
+"Sabah","Kunak","Kunak",4.7209,118.0433,6803,"MY-12","MY-12.10",2015-08-13 00:00:00
+"Sabah","Kunak","Kunak",4.7517,117.9011,6848,"MY-12","MY-12.10",2015-08-14 00:00:00
+"Sabah","Kunak","Kunak",4.7989,118.0694,6348,"MY-12","MY-12.10",2015-08-15 00:00:00
+"Sabah","Kunak","Kunak",4.647,118.1724,8882,"MY-12","MY-12.10",2015-08-16 00:00:00
+"Sabah","Kunak","Kunak",4.6842,118.2448,4382,"MY-12","MY-12.10",2015-08-17 00:00:00
+"Sabah","Kunak","Kunak",4.6795,118.234,6082,"MY-12","MY-12.10",2015-08-18 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.0568,118.5361,5060,"MY-12","MY-12.11",2015-08-19 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.1867,119.0566,3950,"MY-12","MY-12.11",2015-08-20 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.1293,117.7492,5343,"MY-12","MY-12.11",2015-08-21 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.0896,118.2107,1367,"MY-12","MY-12.11",2015-08-22 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.0256,118.3282,7150,"MY-12","MY-12.11",2015-08-23 00:00:00
+"Sabah","Lahad Datu","Lahad Datu",5.0274,118.3169,8514,"MY-12","MY-12.11",2015-08-24 00:00:00
+"Sabah","Nabawan","Nabawan",5.0399,116.4458,1593,"MY-12","MY-12.12",2015-08-25 00:00:00
+"Sabah","Nabawan","Nabawan",5.0539,116.508,8085,"MY-12","MY-12.12",2015-08-26 00:00:00
+"Sabah","Nabawan","Nabawan",5.0542,116.3494,4981,"MY-12","MY-12.12",2015-08-27 00:00:00
+"Sabah","Nabawan","Nabawan",4.9674,116.452,5550,"MY-12","MY-12.12",2015-08-28 00:00:00
+"Sabah","Nabawan","Nabawan",5.045,116.4349,3597,"MY-12","MY-12.12",2015-08-29 00:00:00
+"Sabah","Nabawan","Nabawan",5.0409,116.4267,5018,"MY-12","MY-12.12",2015-08-30 00:00:00
+"Sabah","Papar","Papar",5.6987,115.977,7035,"MY-12","MY-12.13",2015-08-31 00:00:00
+"Sabah","Papar","Papar",5.5986,115.9327,4386,"MY-12","MY-12.13",2015-09-01 00:00:00
+"Sabah","Papar","Papar",5.7267,116.0903,6568,"MY-12","MY-12.13",2015-09-02 00:00:00
+"Sabah","Papar","Papar",5.8111,116.0289,1819,"MY-12","MY-12.13",2015-09-03 00:00:00
+"Sabah","Papar","Papar",5.7346,115.9307,6121,"MY-12","MY-12.13",2015-09-04 00:00:00
+"Sabah","Papar","Papar",5.7308,115.9353,1194,"MY-12","MY-12.13",2015-09-05 00:00:00
+"Sabah","Penampang","Penampang",5.9167,116.0701,8788,"MY-12","MY-12.14",2015-09-06 00:00:00
+"Sabah","Penampang","Penampang",5.8764,116.101,8209,"MY-12","MY-12.14",2015-09-07 00:00:00
+"Sabah","Penampang","Penampang",5.9324,116.1313,3372,"MY-12","MY-12.14",2015-09-08 00:00:00
+"Sabah","Penampang","Penampang",5.9137,116.1085,5276,"MY-12","MY-12.14",2015-09-09 00:00:00
+"Sabah","Penampang","Penampang",5.9146,116.099,5193,"MY-12","MY-12.14",2015-09-10 00:00:00
+"Sabah","Pitas","Pitas",6.733,117.053,8546,"MY-12","MY-12.15",2015-09-11 00:00:00
+"Sabah","Pitas","Pitas",6.7144,117.049,6138,"MY-12","MY-12.15",2015-09-12 00:00:00
+"Sabah","Pitas","Pitas",6.708,117.0681,5397,"MY-12","MY-12.15",2015-09-13 00:00:00
+"Sabah","Pitas","Pitas",6.7028,117.0441,8165,"MY-12","MY-12.15",2015-09-14 00:00:00
+"Sabah","Pitas","Pitas",6.7036,117.0309,7120,"MY-12","MY-12.15",2015-09-15 00:00:00
+"Sabah","Pitas","Pitas",6.7116,117.033,7973,"MY-12","MY-12.15",2015-09-16 00:00:00
+"Sabah","Putatan","Putatan",5.885,116.05,4748,"MY-12","MY-12.16",2015-09-17 00:00:00
+"Sabah","Putatan","Putatan",5.8916,116.0454,7067,"MY-12","MY-12.16",2015-09-18 00:00:00
+"Sabah","Putatan","Putatan",5.8979,116.0457,1150,"MY-12","MY-12.16",2015-09-19 00:00:00
+"Sabah","Putatan","Putatan",5.8932,116.0427,4694,"MY-12","MY-12.16",2015-09-20 00:00:00
+"Sabah","Putatan","Putatan",5.897,116.0416,7167,"MY-12","MY-12.16",2015-09-21 00:00:00
+"Sabah","Putatan","Putatan",5.8962,116.0403,4071,"MY-12","MY-12.16",2015-09-22 00:00:00
+"Sabah","Ranau","Ranau",6.0171,116.7419,5806,"MY-12","MY-12.17",2015-09-23 00:00:00
+"Sabah","Ranau","Ranau",5.9755,116.8257,8938,"MY-12","MY-12.17",2015-09-24 00:00:00
+"Sabah","Ranau","Ranau",5.7446,116.8161,2389,"MY-12","MY-12.17",2015-09-25 00:00:00
+"Sabah","Ranau","Ranau",5.9366,116.6774,7905,"MY-12","MY-12.17",2015-09-26 00:00:00
+"Sabah","Ranau","Ranau",5.9531,116.6616,8222,"MY-12","MY-12.17",2015-09-27 00:00:00
+"Sabah","Ranau","Ranau",5.9537,116.6688,8943,"MY-12","MY-12.17",2015-09-28 00:00:00
+"Sarawak","Asajaya","Asajaya",1.4772,110.6861,8812,"MY-13","MY-13.1",2015-09-29 00:00:00
+"Sarawak","Asajaya","Asajaya",1.5441,110.6569,7091,"MY-13","MY-13.1",2015-09-30 00:00:00
+"Sarawak","Asajaya","Asajaya",1.5146,110.5364,1874,"MY-13","MY-13.1",2015-10-01 00:00:00
+"Sarawak","Asajaya","Asajaya",1.5005,110.6666,1610,"MY-13","MY-13.1",2015-10-02 00:00:00
+"Sarawak","Asajaya","Asajaya",1.5407,110.5142,8345,"MY-13","MY-13.1",2015-10-03 00:00:00
+"Sarawak","Asajaya","Asajaya",1.5459,110.5236,4055,"MY-13","MY-13.1",2015-10-04 00:00:00
+"Sarawak","Bau","Bau",1.3558,110.1983,2734,"MY-13","MY-13.2",2015-10-05 00:00:00
+"Sarawak","Bau","Bau",1.4217,110.0304,4568,"MY-13","MY-13.2",2015-10-06 00:00:00
+"Sarawak","Bau","Bau",1.3376,109.981,4965,"MY-13","MY-13.2",2015-10-07 00:00:00
+"Sarawak","Bau","Bau",1.4258,110.1091,3709,"MY-13","MY-13.2",2015-10-08 00:00:00
+"Sarawak","Bau","Bau",1.4162,110.1559,5381,"MY-13","MY-13.2",2015-10-09 00:00:00
+"Sarawak","Bau","Bau",1.4235,110.1551,3151,"MY-13","MY-13.2",2015-10-10 00:00:00
+"Sarawak","Belaga","Belaga",3.2904,114.0719,5432,"MY-13","MY-13.3",2015-10-11 00:00:00
+"Sarawak","Belaga","Belaga",3.1094,113.9249,3883,"MY-13","MY-13.3",2015-10-12 00:00:00
+"Sarawak","Belaga","Belaga",2.8159,114.4426,2183,"MY-13","MY-13.3",2015-10-13 00:00:00
+"Sarawak","Belaga","Belaga",2.9284,113.7999,1409,"MY-13","MY-13.3",2015-10-14 00:00:00
+"Sarawak","Belaga","Belaga",3.0456,113.9158,2368,"MY-13","MY-13.3",2015-10-15 00:00:00
+"Sarawak","Belaga","Belaga",3.0529,113.9207,5881,"MY-13","MY-13.3",2015-10-16 00:00:00
+"Sarawak","Betong","Betong",1.4644,111.6233,6439,"MY-13","MY-13.4",2015-10-17 00:00:00
+"Sarawak","Betong","Betong",1.4105,111.6044,4261,"MY-13","MY-13.4",2015-10-18 00:00:00
+"Sarawak","Betong","Betong",1.314,111.5763,7732,"MY-13","MY-13.4",2015-10-19 00:00:00
+"Sarawak","Betong","Betong",1.4156,111.5138,1701,"MY-13","MY-13.4",2015-10-20 00:00:00
+"Sarawak","Betong","Betong",1.402,111.5288,2699,"MY-13","MY-13.4",2015-10-21 00:00:00
+"Sarawak","Betong","Betong",1.4106,111.5264,1352,"MY-13","MY-13.4",2015-10-22 00:00:00
+"Sarawak","Bintulu","Bintulu",2.7224,113.3289,3767,"MY-13","MY-13.5",2015-10-23 00:00:00
+"Sarawak","Bintulu","Bintulu",3.5972,113.3894,7408,"MY-13","MY-13.5",2015-10-24 00:00:00
+"Sarawak","Bintulu","Bintulu",3.3642,113.9771,6138,"MY-13","MY-13.5",2015-10-25 00:00:00
+"Sarawak","Bintulu","Bintulu",3.3957,113.5748,4660,"MY-13","MY-13.5",2015-10-26 00:00:00
+"Sarawak","Bintulu","Bintulu",3.1727,113.0416,5515,"MY-13","MY-13.5",2015-10-27 00:00:00
+"Sarawak","Bintulu","Bintulu",3.176,113.0413,8815,"MY-13","MY-13.5",2015-10-28 00:00:00
+"Sarawak","Dalat","Dalat",2.3534,112.1557,4900,"MY-13","MY-13.6",2015-10-29 00:00:00
+"Sarawak","Dalat","Dalat",2.6381,112.1351,2456,"MY-13","MY-13.6",2015-10-30 00:00:00
+"Sarawak","Dalat","Dalat",2.8637,111.8398,2393,"MY-13","MY-13.6",2015-10-31 00:00:00
+"Sarawak","Dalat","Dalat",2.4583,112.1948,5289,"MY-13","MY-13.6",2015-11-01 00:00:00
+"Sarawak","Dalat","Dalat",2.744,111.9444,3845,"MY-13","MY-13.6",2015-11-02 00:00:00
+"Sarawak","Dalat","Dalat",2.7405,111.939,6952,"MY-13","MY-13.6",2015-11-03 00:00:00
+"Sarawak","Daro","Daro",2.6715,111.4317,5010,"MY-13","MY-13.7",2015-11-04 00:00:00
+"Sarawak","Daro","Daro",2.4883,111.5189,1536,"MY-13","MY-13.7",2015-11-05 00:00:00
+"Sarawak","Daro","Daro",2.6831,111.2937,1282,"MY-13","MY-13.7",2015-11-06 00:00:00
+"Sarawak","Daro","Daro",2.5113,111.3493,4073,"MY-13","MY-13.7",2015-11-07 00:00:00
+"Sarawak","Daro","Daro",2.5059,111.4502,5459,"MY-13","MY-13.7",2015-11-08 00:00:00
+"Sarawak","Daro","Daro",2.5122,111.4323,2227,"MY-13","MY-13.7",2015-11-09 00:00:00
+"Sarawak","Julau","Julau",1.9804,111.748,3608,"MY-13","MY-13.8",2015-11-10 00:00:00
+"Sarawak","Julau","Julau",1.7992,111.9197,6576,"MY-13","MY-13.8",2015-11-11 00:00:00
+"Sarawak","Julau","Julau",1.802,111.8194,3764,"MY-13","MY-13.8",2015-11-12 00:00:00
+"Sarawak","Julau","Julau",2.0545,111.9595,5064,"MY-13","MY-13.8",2015-11-13 00:00:00
+"Sarawak","Julau","Julau",2.025,111.9175,2598,"MY-13","MY-13.8",2015-11-14 00:00:00
+"Sarawak","Julau","Julau",2.0287,111.912,5903,"MY-13","MY-13.8",2015-11-15 00:00:00
+"Sarawak","Kanowit","Kanowit",1.8867,112.1411,6577,"MY-13","MY-13.9",2015-11-16 00:00:00
+"Sarawak","Kanowit","Kanowit",2.0335,111.9956,8228,"MY-13","MY-13.9",2015-11-17 00:00:00
+"Sarawak","Kanowit","Kanowit",2.1653,112.2826,1870,"MY-13","MY-13.9",2015-11-18 00:00:00
+"Sarawak","Kanowit","Kanowit",2.087,112.3389,2724,"MY-13","MY-13.9",2015-11-19 00:00:00
+"Sarawak","Kanowit","Kanowit",2.1015,112.1573,6835,"MY-13","MY-13.9",2015-11-20 00:00:00
+"Sarawak","Kanowit","Kanowit",2.1014,112.1474,6352,"MY-13","MY-13.9",2015-11-21 00:00:00
+"Sarawak","Kapit","Kapit",1.9737,112.8569,1766,"MY-13","MY-13.10",2015-11-22 00:00:00
+"Sarawak","Kapit","Kapit",1.9363,113.0941,8028,"MY-13","MY-13.10",2015-11-23 00:00:00
+"Sarawak","Kapit","Kapit",1.9109,113.576,8247,"MY-13","MY-13.10",2015-11-24 00:00:00
+"Sarawak","Kapit","Kapit",1.6178,113.0678,3491,"MY-13","MY-13.10",2015-11-25 00:00:00
+"Sarawak","Kapit","Kapit",2.0167,112.9414,4392,"MY-13","MY-13.10",2015-11-26 00:00:00
+"Sarawak","Kapit","Kapit",2.0153,112.9403,5733,"MY-13","MY-13.10",2015-11-27 00:00:00
+"Sarawak","Kuching","Kuching",1.5554,110.327,7821,"MY-13","MY-13.11",2015-11-28 00:00:00
+"Sarawak","Kuching","Kuching",1.4576,110.3009,4136,"MY-13","MY-13.11",2015-11-29 00:00:00
+"Sarawak","Kuching","Kuching",1.6337,110.4523,2660,"MY-13","MY-13.11",2015-11-30 00:00:00
+"Sarawak","Kuching","Kuching",1.7208,110.3425,6051,"MY-13","MY-13.11",2015-12-01 00:00:00
+"Sarawak","Kuching","Kuching",1.5853,110.372,3636,"MY-13","MY-13.11",2015-12-02 00:00:00
+"Sarawak","Kuching","Kuching",1.5864,110.3535,3276,"MY-13","MY-13.11",2015-12-03 00:00:00
+"Sarawak","Lawas","Lawas",4.491,115.4821,3072,"MY-13","MY-13.12",2015-12-04 00:00:00
+"Sarawak","Lawas","Lawas",4.699,115.3365,5630,"MY-13","MY-13.12",2015-12-05 00:00:00
+"Sarawak","Lawas","Lawas",4.7859,115.5329,7744,"MY-13","MY-13.12",2015-12-06 00:00:00
+"Sarawak","Lawas","Lawas",4.9228,115.4683,2455,"MY-13","MY-13.12",2015-12-07 00:00:00
+"Sarawak","Lawas","Lawas",4.8612,115.4101,5966,"MY-13","MY-13.12",2015-12-08 00:00:00
+"Sarawak","Lawas","Lawas",4.8535,115.4009,4728,"MY-13","MY-13.12",2015-12-09 00:00:00
+"Sarawak","Limbang","Limbang",4.7549,114.8559,7900,"MY-13","MY-13.13",2015-12-10 00:00:00
+"Sarawak","Limbang","Limbang",4.627,114.825,6322,"MY-13","MY-13.13",2015-12-11 00:00:00
+"Sarawak","Limbang","Limbang",4.4538,115.0571,1505,"MY-13","MY-13.13",2015-12-12 00:00:00
+"Sarawak","Limbang","Limbang",4.0734,115.3149,2485,"MY-13","MY-13.13",2015-12-13 00:00:00
+"Sarawak","Limbang","Limbang",4.7579,115.0078,6965,"MY-13","MY-13.13",2015-12-14 00:00:00
+"Sarawak","Limbang","Limbang",4.755,115.0096,4233,"MY-13","MY-13.13",2015-12-15 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.0887,111.8828,4255,"MY-13","MY-13.14",2015-12-16 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.2397,111.8251,3092,"MY-13","MY-13.14",2015-12-17 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.0104,111.8339,5984,"MY-13","MY-13.14",2015-12-18 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.2315,111.9499,4816,"MY-13","MY-13.14",2015-12-19 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.1363,111.6688,6834,"MY-13","MY-13.14",2015-12-20 00:00:00
+"Sarawak","Lubok Antu","Lubok Antu",1.1487,111.6611,8802,"MY-13","MY-13.14",2015-12-21 00:00:00
+"Sarawak","Lundu","Lundu",1.7497,109.7889,2682,"MY-13","MY-13.15",2015-12-22 00:00:00
+"Sarawak","Lundu","Lundu",1.6379,109.9571,7547,"MY-13","MY-13.15",2015-12-23 00:00:00
+"Sarawak","Lundu","Lundu",1.5425,109.8411,7805,"MY-13","MY-13.15",2015-12-24 00:00:00
+"Sarawak","Lundu","Lundu",1.6214,110.1047,2594,"MY-13","MY-13.15",2015-12-25 00:00:00
+"Sarawak","Lundu","Lundu",1.6713,109.854,7491,"MY-13","MY-13.15",2015-12-26 00:00:00
+"Sarawak","Lundu","Lundu",1.6832,109.8514,6654,"MY-13","MY-13.15",2015-12-27 00:00:00
+"Sarawak","Maradong","Maradong",2.2077,111.6266,8376,"MY-13","MY-13.18",2015-12-28 00:00:00
+"Sarawak","Maradong","Maradong",2.2324,111.5223,1416,"MY-13","MY-13.18",2015-12-29 00:00:00
+"Sarawak","Maradong","Maradong",2.1267,111.7701,4580,"MY-13","MY-13.18",2015-12-30 00:00:00
+"Sarawak","Maradong","Maradong",2.067,111.7022,1377,"MY-13","MY-13.18",2015-12-31 00:00:00
+"Sarawak","Maradong","Maradong",2.1703,111.6362,5022,"MY-13","MY-13.18",2015-01-01 00:00:00
+"Sarawak","Maradong","Maradong",2.1686,111.6345,4572,"MY-13","MY-13.18",2015-01-02 00:00:00
+"Sarawak","Marudi","Marudi",4.2913,114.2963,1364,"MY-13","MY-13.16",2015-01-03 00:00:00
+"Sarawak","Marudi","Marudi",4.2458,114.4409,6168,"MY-13","MY-13.16",2015-01-04 00:00:00
+"Sarawak","Marudi","Marudi",4.0983,114.4578,7592,"MY-13","MY-13.16",2015-01-05 00:00:00
+"Sarawak","Marudi","Marudi",4.3356,114.2659,8938,"MY-13","MY-13.16",2015-01-06 00:00:00
+"Sarawak","Marudi","Marudi",4.1788,114.3197,8993,"MY-13","MY-13.16",2015-01-07 00:00:00
+"Sarawak","Marudi","Marudi",4.1783,114.3265,1409,"MY-13","MY-13.16",2015-01-08 00:00:00
+"Sarawak","Matu","Matu",2.7948,111.6835,7798,"MY-13","MY-13.17",2015-01-09 00:00:00
+"Sarawak","Matu","Matu",2.672,111.5627,7728,"MY-13","MY-13.17",2015-01-10 00:00:00
+"Sarawak","Matu","Matu",2.6377,111.5187,1693,"MY-13","MY-13.17",2015-01-11 00:00:00
+"Sarawak","Matu","Matu",2.7382,111.6362,5702,"MY-13","MY-13.17",2015-01-12 00:00:00
+"Sarawak","Matu","Matu",2.7158,111.5659,1494,"MY-13","MY-13.17",2015-01-13 00:00:00
+"Sarawak","Matu","Matu",2.6697,111.5398,6087,"MY-13","MY-13.17",2015-01-14 00:00:00
+"Sarawak","Miri","Miri",3.6056,113.8107,7541,"MY-13","MY-13.19",2015-01-15 00:00:00
+"Sarawak","Miri","Miri",3.7495,113.7874,5846,"MY-13","MY-13.19",2015-01-16 00:00:00
+"Sarawak","Miri","Miri",4.5411,114.1185,4744,"MY-13","MY-13.19",2015-01-17 00:00:00
+"Sarawak","Miri","Miri",4.3088,114.0175,2374,"MY-13","MY-13.19",2015-01-18 00:00:00
+"Sarawak","Miri","Miri",4.3967,113.9931,5413,"MY-13","MY-13.19",2015-01-19 00:00:00
+"Sarawak","Miri","Miri",4.4011,113.992,5794,"MY-13","MY-13.19",2015-01-20 00:00:00
+"Sarawak","Mukah","Mukah",2.9047,112.2649,3958,"MY-13","MY-13.20",2015-01-21 00:00:00
+"Sarawak","Mukah","Mukah",2.8395,112.049,2979,"MY-13","MY-13.20",2015-01-22 00:00:00
+"Sarawak","Mukah","Mukah",2.7778,112.3116,2068,"MY-13","MY-13.20",2015-01-23 00:00:00
+"Sarawak","Mukah","Mukah",2.6077,112.2148,4309,"MY-13","MY-13.20",2015-01-24 00:00:00
+"Sarawak","Mukah","Mukah",2.8973,112.0893,2974,"MY-13","MY-13.20",2015-01-25 00:00:00
+"Sarawak","Mukah","Mukah",2.8949,112.0915,8052,"MY-13","MY-13.20",2015-01-26 00:00:00
+"Sarawak","Pakan","Pakan",1.7615,111.6857,8665,"MY-13","MY-13.21",2015-02-02 00:00:00
+"Sarawak","Pakan","Pakan",1.8603,111.7081,4779,"MY-13","MY-13.21",2015-02-03 00:00:00
+"Sarawak","Pakan","Pakan",1.9042,111.5955,8774,"MY-13","MY-13.21",2015-02-04 00:00:00
+"Sarawak","Pakan","Pakan",1.9708,111.6848,1059,"MY-13","MY-13.21",2015-02-05 00:00:00
+"Sarawak","Pakan","Pakan",1.8952,111.6804,4667,"MY-13","MY-13.21",2015-02-06 00:00:00
+"Sarawak","Pakan","Pakan",1.8941,111.6798,8774,"MY-13","MY-13.21",2015-02-07 00:00:00
+"Sarawak","Samarahan","Samarahan",1.4381,110.4571,6361,"MY-13","MY-13.22",2015-02-08 00:00:00
+"Sarawak","Samarahan","Samarahan",1.4893,110.4073,7284,"MY-13","MY-13.22",2015-02-09 00:00:00
+"Sarawak","Samarahan","Samarahan",1.4605,110.6323,4167,"MY-13","MY-13.22",2015-02-10 00:00:00
+"Sarawak","Samarahan","Samarahan",1.3823,110.4359,3740,"MY-13","MY-13.22",2015-02-11 00:00:00
+"Sarawak","Samarahan","Samarahan",1.4598,110.4955,4069,"MY-13","MY-13.22",2015-02-12 00:00:00
+"Sarawak","Samarahan","Samarahan",1.4592,110.477,7270,"MY-13","MY-13.22",2015-02-13 00:00:00
+"Sarawak","Saratok","Saratok",1.7486,111.3362,3932,"MY-13","MY-13.23",2015-02-14 00:00:00
+"Sarawak","Saratok","Saratok",1.7513,111.3026,1177,"MY-13","MY-13.23",2015-02-15 00:00:00
+"Sarawak","Saratok","Saratok",1.7159,111.3008,5870,"MY-13","MY-13.23",2015-02-16 00:00:00
+"Sarawak","Saratok","Saratok",1.7913,111.3121,5787,"MY-13","MY-13.23",2015-02-17 00:00:00
+"Sarawak","Saratok","Saratok",1.7384,111.3377,3929,"MY-13","MY-13.23",2015-02-18 00:00:00
+"Sarawak","Saratok","Saratok",1.753,111.3414,4991,"MY-13","MY-13.23",2015-02-19 00:00:00
+"Sarawak","Sarikei","Sarikei",2.1179,111.5693,6528,"MY-13","MY-13.24",2015-02-20 00:00:00
+"Sarawak","Sarikei","Sarikei",2.0315,111.5108,4978,"MY-13","MY-13.24",2015-02-21 00:00:00
+"Sarawak","Sarikei","Sarikei",2.0919,111.3727,3930,"MY-13","MY-13.24",2015-02-22 00:00:00
+"Sarawak","Sarikei","Sarikei",2.1192,111.528,2862,"MY-13","MY-13.24",2015-02-23 00:00:00
+"Sarawak","Sarikei","Sarikei",2.1312,111.5221,1508,"MY-13","MY-13.24",2015-02-24 00:00:00
+"Sarawak","Sarikei","Sarikei",2.1304,111.5247,7063,"MY-13","MY-13.24",2015-02-25 00:00:00
+"Sarawak","Selagau","Selangau",2.5243,112.325,6563,"MY-13","MY-13.25",2015-02-26 00:00:00
+"Sarawak","Selagau","Selangau",2.5225,112.3261,2698,"MY-13","MY-13.25",2015-02-27 00:00:00
+"Sarawak","Selagau","Selangau",2.5231,112.327,1911,"MY-13","MY-13.25",2015-02-28 00:00:00
+"Sarawak","Selagau","Selangau",2.5251,112.3256,7149,"MY-13","MY-13.25",2015-03-01 00:00:00
+"Sarawak","Selagau","Selangau",2.5232,112.3258,1725,"MY-13","MY-13.25",2015-03-02 00:00:00
+"Sarawak","Selagau","Selangau",2.5246,112.3262,7127,"MY-13","MY-13.25",2015-03-03 00:00:00
+"Sarawak","Serian","Serian",1.2155,110.5741,8575,"MY-13","MY-13.26",2015-03-04 00:00:00
+"Sarawak","Serian","Serian",1.164,110.6538,7127,"MY-13","MY-13.26",2015-03-05 00:00:00
+"Sarawak","Serian","Serian",1.2628,110.5391,5420,"MY-13","MY-13.26",2015-03-06 00:00:00
+"Sarawak","Serian","Serian",1.0507,110.5796,5749,"MY-13","MY-13.26",2015-03-07 00:00:00
+"Sarawak","Serian","Serian",1.1672,110.5664,1052,"MY-13","MY-13.26",2015-03-08 00:00:00
+"Sarawak","Serian","Serian",1.1731,110.5672,2834,"MY-13","MY-13.26",2015-03-09 00:00:00
+"Sarawak","Sibu","Sibu",2.3027,111.8864,3215,"MY-13","MY-13.27",2015-03-10 00:00:00
+"Sarawak","Sibu","Sibu",2.3315,111.6969,8327,"MY-13","MY-13.27",2015-03-11 00:00:00
+"Sarawak","Sibu","Sibu",2.4632,111.8946,6576,"MY-13","MY-13.27",2015-03-12 00:00:00
+"Sarawak","Sibu","Sibu",2.1284,111.9029,8911,"MY-13","MY-13.27",2015-03-13 00:00:00
+"Sarawak","Sibu","Sibu",2.2931,111.842,2717,"MY-13","MY-13.27",2015-03-14 00:00:00
+"Sarawak","Sibu","Sibu",2.2956,111.824,6375,"MY-13","MY-13.27",2015-03-15 00:00:00
+"Sarawak","Simunjan","Simunjan",1.0871,110.8881,7177,"MY-13","MY-13.28",2015-03-16 00:00:00
+"Sarawak","Simunjan","Simunjan",1.0823,110.9633,6399,"MY-13","MY-13.28",2015-03-17 00:00:00
+"Sarawak","Simunjan","Simunjan",1.1973,110.9248,2342,"MY-13","MY-13.28",2015-03-18 00:00:00
+"Sarawak","Simunjan","Simunjan",1.2381,110.7714,8943,"MY-13","MY-13.28",2015-03-19 00:00:00
+"Sarawak","Simunjan","Simunjan",1.186,110.9033,8258,"MY-13","MY-13.28",2015-03-20 00:00:00
+"Sarawak","Simunjan","Simunjan",1.1246,110.9326,7688,"MY-13","MY-13.28",2015-03-21 00:00:00
+"Sarawak","Song","Song",1.7051,112.7747,1603,"MY-13","MY-13.29",2015-03-22 00:00:00
+"Sarawak","Song","Song",1.8396,112.7143,1105,"MY-13","MY-13.29",2015-03-23 00:00:00
+"Sarawak","Song","Song",2.0002,112.5413,1879,"MY-13","MY-13.29",2015-03-24 00:00:00
+"Sarawak","Song","Song",1.6475,112.6978,7662,"MY-13","MY-13.29",2015-03-25 00:00:00
+"Sarawak","Song","Song",2.0005,112.549,8292,"MY-13","MY-13.29",2015-03-26 00:00:00
+"Sarawak","Song","Song",2.0075,112.5482,3963,"MY-13","MY-13.29",2015-03-27 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.1862,111.4494,8091,"MY-13","MY-13.30",2015-03-28 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.2713,111.3821,5303,"MY-13","MY-13.30",2015-03-29 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.2967,111.4906,2416,"MY-13","MY-13.30",2015-03-30 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.2027,111.5146,3304,"MY-13","MY-13.30",2015-03-31 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.2307,111.4561,2985,"MY-13","MY-13.30",2015-04-01 00:00:00
+"Sarawak","Sri Aman","Sri Aman",1.2341,111.4634,4391,"MY-13","MY-13.30",2015-04-02 00:00:00
+"Sarawak","Tatau","Tatau",2.8711,112.8515,3752,"MY-13","MY-13.31",2015-04-03 00:00:00
+"Sarawak","Tatau","Tatau",2.8888,112.8486,7473,"MY-13","MY-13.31",2015-04-04 00:00:00
+"Sarawak","Tatau","Tatau",2.9105,112.8581,1729,"MY-13","MY-13.31",2015-04-05 00:00:00
+"Sarawak","Tatau","Tatau",3.0045,112.8478,7972,"MY-13","MY-13.31",2015-04-06 00:00:00
+"Sarawak","Tatau","Tatau",2.8804,112.8545,7376,"MY-13","MY-13.31",2015-04-07 00:00:00
+"Sarawak","Tatau","Tatau",2.8779,112.8506,2228,"MY-13","MY-13.31",2015-04-08 00:00:00
